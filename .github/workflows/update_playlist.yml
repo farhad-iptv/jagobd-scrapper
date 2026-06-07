@@ -3,7 +3,7 @@ name: Update JagoBD Playlist
 on:
   # ── Auto-run every 6 hours ──
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "*/15 * * * *" 
 
   # ── Run manually from GitHub UI ──
   workflow_dispatch:
