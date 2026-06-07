@@ -1,0 +1,1703 @@
+{
+  "source": "https://www.jagobd.com",
+  "total_channels": 113,
+  "with_stream": 112,
+  "updated_at": "2026-06-07 09:37:45 UTC",
+  "channels": [
+    {
+      "name": "Al Jazeera",
+      "page_url": "https://www.jagobd.com/aljazeera",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2019/09/AljazeeraTV-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/aljazeera.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=aljazeera&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:UHetlrtpgt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Ananda TV",
+      "page_url": "https://www.jagobd.com/anandatv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=anandatv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:egUrlptHtt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Asian TV",
+      "page_url": "https://www.jagobd.com/asiantv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2015/12/asiantv-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=asiantvbd26&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:rptHegttUl",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "ATN Bangla",
+      "page_url": "https://www.jagobd.com/atn-bangla",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=atnbdss&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:UetrpltgtH",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "ATN Bangla UK",
+      "page_url": "https://www.jagobd.com/atnbanglauk",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/atnbanglauk11-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=atnuk&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:pgtlreHtUt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "ATN Islamic TV",
+      "page_url": "https://www.jagobd.com/atnislamictv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/atnislamictv-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnislamictv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=atnislamictv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:UHtrgltetp",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "ATN Music",
+      "page_url": "https://www.jagobd.com/atnmusic",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2015/12/atnmusic-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnmusic.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=atnmusic&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:UttHlrpteg",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "ATN News",
+      "page_url": "https://www.jagobd.com/atnnews",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=atnnewsss&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:tertUgtHlp",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Ayna TV",
+      "page_url": "https://www.jagobd.com/aynatv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2025/07/ayna-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=aynatvbd&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:tlteUrpgtH",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Azan TV Canada",
+      "page_url": "https://www.jagobd.com/azan-tv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2019/04/azantvs-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/azantv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=azantv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:eprgtHtlUt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Banglavision",
+      "page_url": "https://www.jagobd.com/banglavision",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2015/10/bv-150x1501.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=bvsn564sdes&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:egttlrHtUp",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "BARTOMAN TELEVISION",
+      "page_url": "https://www.jagobd.com/bartomantelevision",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2025/02/bartoman-web-150x150.jpeg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/bartomantv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=eyetv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:getttUHrpl",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "BiswaBangla 24",
+      "page_url": "https://www.jagobd.com/biswabangla24",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2022/03/Logo-Still-150x150.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=biswabanglatv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:teHlrtgpUt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Boishakhi TV",
+      "page_url": "https://www.jagobd.com/boishakhitv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=boishakhitvp&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:ltUtHgpter",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Btv Chittagong",
+      "page_url": "https://www.jagobd.com/btv-chittagong",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2017/08/3WUFkD8.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvnational-ctg.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=btvctg&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:HtrgpletUt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "BTV National",
+      "page_url": "https://www.jagobd.com/btvnational",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2017/08/btvctg.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvnational1.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=btvnationalbd&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:tUgHttlepr",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "BTV News",
+      "page_url": "https://www.jagobd.com/btvnews",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/12/btv-news--150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=btvworlds&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:peHtgrttlU",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "CB24 TV",
+      "page_url": "https://www.jagobd.com/cb24tv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/01/CB24-PP-LOGO-150x150.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/cb24.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=atvcanada&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:plHttreUtg",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "CGTN",
+      "page_url": "https://www.jagobd.com/cgtn",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2022/10/CGTN-150x150.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=cgtn&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:trgtUepHlt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "CGTN Documentary",
+      "page_url": "https://www.jagobd.com/cgtndocumentary",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2022/10/CGTN_Doc-150x150.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/cgtndoc.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=cgtndoc&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:UpgetHtrtl",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Channel 1",
+      "page_url": "https://www.jagobd.com/channel1",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2026/04/Channel1Bangladesh-1-150x150.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=channel1bangladesh&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:ttleHprUgt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Channel 16",
+      "page_url": "https://www.jagobd.com/channel16",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2026/01/channel16-150x150.jpeg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=channel16bd&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:rttUHelpgt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Channel 24",
+      "page_url": "https://www.jagobd.com/channel24",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/channel24-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=channel241&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:UrtpgHeltt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Channel 52 USA",
+      "page_url": "https://www.jagobd.com/channel52usa",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/12/ch52-1-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel25usa.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=channel25usa&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:HUtlgetprt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Channel 9",
+      "page_url": "https://www.jagobd.com/channel9hd",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=channel9hd&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:HUlpgttret",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Channel S BD",
+      "page_url": "https://www.jagobd.com/channelsbd",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/chsbd-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=chsbd&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:ttHgrelUpt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Channel S UK",
+      "page_url": "https://www.jagobd.com/channelsuk",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/channelsukup.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/chsukoff.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=chsuk&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:tUetHrtgpl",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Channeli",
+      "page_url": "https://www.jagobd.com/channeli",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=chibd1&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:gttpUrtelH",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "DBC News",
+      "page_url": "https://www.jagobd.com/dbcnews",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/dbc-news-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=dbcnews&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:lgtreHtptU",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Deen TV UK",
+      "page_url": "https://www.jagobd.com/deentvuk",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2021/05/Deentv-150x150.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deentv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=deentv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:lHtrgetUpt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Desh Bangla TV",
+      "page_url": "https://www.jagobd.com/deshbanglatv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2025/11/Desh-Bangla-Tv-150x150.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshbanglatv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=deshbangla247tv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:rlgHtpUtet",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Desh TV",
+      "page_url": "https://www.jagobd.com/deshtv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2022/12/DESH-TV1-150x150.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=deshtv1&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:gltetUtHrp",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "DesheBideshe TV | Canada",
+      "page_url": "https://www.jagobd.com/deshebideshe-tv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2016/08/deshebideshe-1-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshebideshe.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=deshebideshe&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:rlptUgHtte",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Deshi TV",
+      "page_url": "https://www.jagobd.com/deshitv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/09/desitv-150x150.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshitv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=deshitv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:tlttgUerHp",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "DIM",
+      "page_url": "https://www.jagobd.com/dim",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/10/dim-150x150.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/dimtv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=dimtv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:greHpUtltt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Discover Pakistan",
+      "page_url": "https://www.jagobd.com/discoverpakistan",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/09/discoverpakistan-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=discoverpakistantv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:rtHgltUept",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "DW News",
+      "page_url": "https://www.jagobd.com/dwnews",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2019/07/dwnews-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/dwnews.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=dwnews&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:rgHttptUel",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Ekattor TV",
+      "page_url": "https://www.jagobd.com/ekattor-tv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2015/10/ekattors-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=ekattor12&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:ltgUHprett",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Ekhon TV",
+      "page_url": "https://www.jagobd.com/ekhontv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/ekhontv-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=globalbd&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:ptleHUtrgt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Ekushey TV",
+      "page_url": "https://www.jagobd.com/ekushey-tv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2015/12/ekusheytv-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=ekusheytvss&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:lgrpetUttH",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "EP TV",
+      "page_url": "https://www.jagobd.com/eptv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2026/03/EPTV-Logo-400x400-1-150x150.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eptv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=eptv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:tpgtHtlrUe",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "ESA WEB TV",
+      "page_url": "https://www.jagobd.com/esatv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/11/ESA_Patch_2022-150x150.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/bartoman.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=esatv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:UtrHgteplt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Eye TV Bangla",
+      "page_url": "https://www.jagobd.com/eyetvbangla",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2026/05/eye-tv-bangla-logo-150x150.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eyetv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=eyetvbangla&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:petttrlHUg",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "France 24",
+      "page_url": "https://www.jagobd.com/france24",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2019/07/francenews24-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=fr24&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:rtpHttlgUe",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "FREEDOM",
+      "page_url": "https://www.jagobd.com/uatv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2019/09/freedom-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/uatv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=uatv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:erpUttgHtl",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Galaxy TV",
+      "page_url": "https://www.jagobd.com/galaxytv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2026/02/galaxybd-150x150.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/galaxytvbd.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=galaxytvbd&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:etrUptgtHl",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Gazi Television – GTV",
+      "page_url": "https://www.jagobd.com/gtv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/11/gtv-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=gtvbd&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:tHgltrtpUe",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Global TV Bangladesh",
+      "page_url": "https://www.jagobd.com/globaltelevision",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2021/11/globaltv-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=globalbdd&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:rteltHUptg",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Green TV",
+      "page_url": "https://www.jagobd.com/greentv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2022/12/green-tv-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=green&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:UHrtttglep",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "IN – Aamar Bangla",
+      "page_url": "https://www.jagobd.com/aamarbanglatv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2022/07/Aamar-Bangla-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/amarbanglatv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=amarbanglatv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:ettrpUlHtg",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "IN-Amar Digital",
+      "page_url": "https://www.jagobd.com/amardigital",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/09/amardigital-1-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/amardigital.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=amardigital&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:HpgtlrttUe",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "IN-Ananda Barta",
+      "page_url": "https://www.jagobd.com/anandabarta",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/ANANDABARTA-150x150.jpeg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandabarta.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=anandabarta&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:rpgtlHUtte",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "IN-Express News",
+      "page_url": "https://www.jagobd.com/expressnews",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/10/expressnews-150x150.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/expressnews.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=expressnews&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:HttrUgpelt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "IN-HOME TV",
+      "page_url": "https://www.jagobd.com/hometv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/hometv-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/hometv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=hometvv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:gHrelptUtt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "IN-Zodiak TV",
+      "page_url": "https://www.jagobd.com/zodiaktv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/09/zodiaktv-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/zodiaktv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=zodiak&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:tetgHtUplr",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Independent TV",
+      "page_url": "https://www.jagobd.com/independent",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2015/10/inds-150x150.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=inde24s&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:teltUpHgtr",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "iON TV UK",
+      "page_url": "https://www.jagobd.com/iontvuk",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2017/10/iontvuk.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/iontvuk.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=iontvuk&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:etrpUtglHt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "IPTV – Alpona TV",
+      "page_url": "https://www.jagobd.com/alponatv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2020/06/alponatv-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/alponatv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=alponatv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:tlttHUpgre",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "IPTV – Citizen TV",
+      "page_url": "https://www.jagobd.com/citizentv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2026/04/citizentv-150x150.jpeg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/citizentv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=citizentv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:grtHteUplt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "IPTV – Madhupur News24",
+      "page_url": "https://www.jagobd.com/madhupurnews24",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2026/05/modhupur-news-01-150x150.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/modhupurnews.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=modhupurnews24&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:elttrtUgHp",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "IQRA Bangla TV UK",
+      "page_url": "https://www.jagobd.com/iqratv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV-150x150.jpeg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=iqratvuk&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:erltUHttgp",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Islam Ch Bangla",
+      "page_url": "https://www.jagobd.com/islamchbangla",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/icb-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamchbangla.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=islamchbanglaeu&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:tUgltpetHr",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Islamic TV",
+      "page_url": "https://www.jagobd.com/islamictvbd",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2026/01/Islamictvbd-150x150.jpeg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=islamictvbd&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:UlpgHtetrt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "ITV USA",
+      "page_url": "https://www.jagobd.com/itvusa",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2026/01/4792092_n-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": null,
+      "stream_type": null,
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=",
+      "status": "no_stream",
+      "method": null,
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Jago News 24",
+      "page_url": "https://www.jagobd.com/jagonews24",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/pran-RFL-150x150.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=jagonews244&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:UtrtlegtHp",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Jamuna TV",
+      "page_url": "https://www.jagobd.com/jamunatv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=jamunass&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:lptretUtgH",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "JaTV",
+      "page_url": "https://www.jagobd.com/jatv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2026/05/jatv-150x150.jpeg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/jatvbd.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=jatv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:rHtgteUtlp",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "JonmoBhumi TV |Australia",
+      "page_url": "https://www.jagobd.com/jonmobhumi-tv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2017/08/Jonmobhumi-Logo-2-150x120.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/jonmobhumitv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=jonmobhumitv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:rlHUtptget",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Madani Ch. Bangla",
+      "page_url": "https://www.jagobd.com/madanibanglatv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2020/05/Madani-Channel-Bangla-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madanitvbangla.stream1/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=madanibangla&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:peUlrgttHt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Makkah Live",
+      "page_url": "https://www.jagobd.com/makkahlive",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=makkahlive&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:tgleUHptrt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Makkah TV",
+      "page_url": "https://www.jagobd.com/makkahtv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2021/04/makkahtv-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=makkahtv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:egtUpHlttr",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Matri Bhumi TV",
+      "page_url": "https://www.jagobd.com/matribhumi",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/10/matribhumi-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/matribhumitv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=matribhumi&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:tlrUHttepg",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Medina Live",
+      "page_url": "https://www.jagobd.com/medinalive",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=medinatv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:rptlgtHetU",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Millennium24 | USA",
+      "page_url": "https://www.jagobd.com/millennium24",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2020/08/millennium24-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mnews24.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=millennium24&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:HtUprelttg",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "MillenniumTV | USA",
+      "page_url": "https://www.jagobd.com/millenniumtv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/mileninumTV-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=millennium&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:HeplttrgUt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Mohona TV",
+      "page_url": "https://www.jagobd.com/mohonatv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/mohona-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=mohonatvs&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:tptHeUgtlr",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Movie Bangla",
+      "page_url": "https://www.jagobd.com/moviebangla",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/moviebanglalink2.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=moviebangla-ups&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:rtplUgttHe",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Music Bangla",
+      "page_url": "https://www.jagobd.com/musicbangla",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/12/mb-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla2025.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=musicbangla26&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:retpltgHUt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Music Bangla",
+      "page_url": "https://www.jagobd.com/musicbanglabd",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/12/musicbangla-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla44.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=musicbangla&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:tUHelrttgp",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "My TV",
+      "page_url": "https://www.jagobd.com/my-tv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2015/12/mytv-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=sdfsdfgs&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:UttlgHrpte",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "NAN TV",
+      "page_url": "https://www.jagobd.com/nantv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2019/11/NAN-TV-Logo-02-150x150.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nantv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=nantv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:UpttHeltrg",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "NEWS24 TV",
+      "page_url": "https://www.jagobd.com/news24tv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=news24bd&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:HUttegrplt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Nexus TV",
+      "page_url": "https://www.jagobd.com/nexustv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2021/07/nexustv-150x150.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=nexustv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:rHlpegUttt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Noborup TV",
+      "page_url": "https://www.jagobd.com/noboruptv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2025/12/n-150x150.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/noboruptv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=noboruptv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:trtHpgetUl",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "NRB TV | Canada",
+      "page_url": "https://www.jagobd.com/nrbtv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2016/08/nrb.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nrb-eu.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=nrbtv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:lterHUgttp",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Ntv Europe",
+      "page_url": "https://www.jagobd.com/ntveurope",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/ntveurope-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=nokia&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:geHtplrttU",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Open TV",
+      "page_url": "https://www.jagobd.com/opentv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2021/06/OPEN-TV.jpeg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/boulive.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=opentv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:ttlgrHtUpe",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Peace TV Bangla",
+      "page_url": "https://www.jagobd.com/peacetvbangla",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/logo_50-150x150.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/peacetvban.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=peacetvbang&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:tgtUHtlrep",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Prime TV",
+      "page_url": "https://www.jagobd.com/primetv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/Prime-Tv-Jagobd-150x150.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/primetv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=voicetv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:rHltUttpeg",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Quran TV Bangla",
+      "page_url": "https://www.jagobd.com/qurantvbangla",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2025/05/Copilot_20250530_180323-150x150.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/qurantvbangla.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=qurantvbangla&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:prUtletgHt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "RTV",
+      "page_url": "https://www.jagobd.com/rtv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/rtvbd-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=rtvss5&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:pHelttgUtr",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "RTV Music",
+      "page_url": "https://www.jagobd.com/rtvmusic",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtvmusic.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=rtvmusic&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:UHtgeptltr",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Ruposhi Bangla TV",
+      "page_url": "https://www.jagobd.com/ruposhibangla",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/09/unnamed-150x150.webp?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=ruposhitv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:lretHtUgtp",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "SA TV",
+      "page_url": "https://www.jagobd.com/satv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2015/12/satvs-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=satvs24&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:rtlHteUpgt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Samay Kolkata",
+      "page_url": "https://www.jagobd.com/samaykolkata",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/samaykolkata-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/samaykolkata.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=samaykolkata&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:tHtrpteUlg",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Sananda TV",
+      "page_url": "https://www.jagobd.com/sanandatv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/10/sananda-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/sanandatv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=sananda&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:HrtgptleUt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Shikor TV Canada",
+      "page_url": "https://www.jagobd.com/shikortv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2025/09/shikortv1-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/shikortv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=shikortv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:UelttrHptg",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Somoy News",
+      "page_url": "https://www.jagobd.com/somoynews",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/somoynews-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=somoy5&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:UpttgHertl",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Songsad TV",
+      "page_url": "https://www.jagobd.com/songsadtv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/songsodtv-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/songsodtv-world.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=sangsadtv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:lHUgtpettr",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Star News",
+      "page_url": "https://www.jagobd.com/sternews",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2025/12/images-150x150.jpeg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=starnews&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:rgHtltpteU",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Tehelka TV",
+      "page_url": "https://www.jagobd.com/tehelkatv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2021/03/TehelkaTV-150x150.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/tehelkatv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=tehelkatv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:pgtUltHrte",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "The Channel TV | Canada",
+      "page_url": "https://www.jagobd.com/the-channeltv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2020/07/thechanneltv-1-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/thechanneltv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=thechanneltv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:rHtttglepU",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Thikana TV | Web Test Transmission",
+      "page_url": "https://www.jagobd.com/thikanatv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2026/01/thikana-150x150.jpeg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/thikanatv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=thikanatv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:trpHlUtteg",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Time Televison | USA",
+      "page_url": "https://www.jagobd.com/timetv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/timetv-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/timetvusa.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=timetv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:tUlHtgetrp",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "TIMES24 TV",
+      "page_url": "https://www.jagobd.com/times24tv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2020/04/TIMES-24-TV-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/times24tv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=times24&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:ttpgrteUlH",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Toroni24 TV",
+      "page_url": "https://www.jagobd.com/toroni24tv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2025/07/Logo-For-Jagobd-2-01-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/toronitv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=toroni24tv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:gUtltrpetH",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "TV ONE UK",
+      "page_url": "https://www.jagobd.com/tv-one-uk",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/TVONE-LOGO-Colour-150x150.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/tvoneuksni.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=tvoneuk&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:lrpgteHtUt",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "UN WEB TV",
+      "page_url": "https://www.jagobd.com/unwebtv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2025/01/UNTV-150x150.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/untv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=untv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:tlpeHttgrU",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Unmochon Television",
+      "page_url": "https://www.jagobd.com/unmochontv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2026/01/unmochon-TV-web-150x150.jpeg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/unmochon.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=unmochontv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:tetplgUtrH",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "V2BEAT TV Europe",
+      "page_url": "https://www.jagobd.com/v2beattv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2020/05/V2BEATTV-150x150.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/v2beattv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=v2beattv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:UtHgtrtlpe",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Varendra TV",
+      "page_url": "https://www.jagobd.com/varendra-tv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/varendro-tv-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/varendratv.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=varendratv&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:elrtHtgUtp",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "VOA 52 Documentary",
+      "page_url": "https://www.jagobd.com/voa52documentary",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/52doc-150x150.png?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/voadoc.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=voado&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:epHtrtgltU",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Voice of America | VOA TV",
+      "page_url": "https://www.jagobd.com/voatv",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2019/10/vooa-150x150.jpg?x71442",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/voa.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=voa&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:gtrHtpleUt",
+      "error": null,
+      "debug": []
+    }
+  ]
+}
