@@ -1,0 +1,148 @@
+name: Update JagoBD Playlist
+
+on:
+  # ── Auto-run every 6 hours ──
+  schedule:
+    - cron: "0 */6 * * *"
+
+  # ── Run manually from GitHub UI ──
+  workflow_dispatch:
+
+  # ── Run on every push to main ──
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/**"
+      - "requirements.txt"
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    permissions:
+      contents: write
+
+    steps:
+      # ── 1. Checkout repo ──
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ── 2. Setup Python ──
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      # ── 3. Install dependencies ──
+      - name: Install Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # ── 4. Run extractor ──
+      - name: Run Channel Extractor
+        run: |
+          python scripts/extractor.py
+
+      # ── 5. Verify output files exist ──
+      - name: Verify Output Files
+        run: |
+          echo "=== Output Directory ==="
+          ls -lh output/
+          echo ""
+          echo "=== Playlist Preview (first 30 lines) ==="
+          head -30 output/playlist.m3u
+          echo ""
+          echo "=== Channel count ==="
+          grep -c "#EXTINF" output/playlist.m3u || echo "0 channels"
+
+      # ── 6. Update README with stats ──
+      - name: Update README Stats
+        run: |
+          python - <<'EOF'
+          import json, re
+          from datetime import datetime, timezone
+
+          # Read stats from JSON
+          with open("output/channels.json") as f:
+              data = json.load(f)
+
+          total    = data.get("total_channels", 0)
+          ok       = data.get("with_stream", 0)
+          updated  = data.get("updated_at", "N/A")
+
+          # Read playlist to count channels
+          with open("output/playlist.m3u") as f:
+              pl = f.read()
+          channel_count = pl.count("#EXTINF")
+
+          # Build stats block
+          stats_block = f"""<!-- STATS_START -->
+          ## 📊 Playlist Stats
+
+          | Info | Value |
+          |------|-------|
+          | 📅 Last Updated | `{updated}` |
+          | 📺 Total Channels Found | `{total}` |
+          | ✅ Channels with Stream | `{ok}` |
+          | 📋 Playlist Entries | `{channel_count}` |
+
+          <!-- STATS_END -->"""
+
+          # Read existing README
+          try:
+              with open("README.md") as f:
+                  readme = f.read()
+          except FileNotFoundError:
+              readme = ""
+
+          # Replace or append stats block
+          if "<!-- STATS_START -->" in readme:
+              readme = re.sub(
+                  r"<!-- STATS_START -->.*?<!-- STATS_END -->",
+                  stats_block,
+                  readme,
+                  flags=re.DOTALL
+              )
+          else:
+              readme = readme.rstrip() + "\n\n" + stats_block + "\n"
+
+          with open("README.md", "w") as f:
+              f.write(readme)
+
+          print("README updated!")
+          EOF
+
+      # ── 7. Commit and push changes ──
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name  "github-actions[bot]"
+
+          git add output/playlist.m3u
+          git add output/playlist.m3u8
+          git add output/channels.json
+          git add README.md
+
+          # Only commit if there are actual changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            CHANNEL_COUNT=$(grep -c "#EXTINF" output/playlist.m3u || echo "0")
+            git commit -m "🔄 Auto-update playlist — ${CHANNEL_COUNT} channels [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+            git push
+          fi
+
+      # ── 8. Upload as artifact (always, even on failure) ──
+      - name: Upload Playlist Artifact
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: jagobd-playlist-${{ github.run_number }}
+          path: output/
+          retention-days: 7
