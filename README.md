@@ -5,9 +5,9 @@
 
 | Info | Value |
 |------|-------|
-| 📅 Last Updated | `2026-06-10 18:56:06 UTC` |
+| 📅 Last Updated | `2026-06-10 21:18:54 UTC` |
 | 📺 Total Channels Found | `110` |
-| ✅ Channels with Stream | `106` |
-| 📋 Playlist Entries | `106` |
+| ✅ Channels with Stream | `109` |
+| 📋 Playlist Entries | `109` |
 
 <!-- STATS_END -->
