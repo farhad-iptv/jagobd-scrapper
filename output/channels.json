@@ -1,8 +1,8 @@
 {
   "source": "https://www.jagobd.com",
   "total_channels": 111,
-  "with_stream": 110,
-  "updated_at": "2026-06-24 21:53:57 UTC",
+  "with_stream": 83,
+  "updated_at": "2026-06-24 23:15:17 UTC",
   "channels": [
     {
       "name": "Al Jazeera",
@@ -15,7 +15,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=aljazeera&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:UtlertHptg",
+      "method": "js_func:erUttlpgHt",
       "error": null,
       "debug": []
     },
@@ -30,7 +30,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=anandatv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:trHepUtltg",
+      "method": "js_func:UleptgtrHt",
       "error": null,
       "debug": []
     },
@@ -45,7 +45,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=asiantvbd26&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:lrttgetpUH",
+      "method": "js_func:tlrptgHeUt",
       "error": null,
       "debug": []
     },
@@ -60,7 +60,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=atnbdss&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:teplUtrHgt",
+      "method": "js_func:UtpergltHt",
       "error": null,
       "debug": []
     },
@@ -75,7 +75,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=atnuk&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:ptlgtterHU",
+      "method": "js_func:lgtHUterpt",
       "error": null,
       "debug": []
     },
@@ -90,7 +90,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=atnislamictv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gtprtleUHt",
+      "method": "js_func:etHlgptrtU",
       "error": null,
       "debug": []
     },
@@ -105,7 +105,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=atnmusic&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:peUgtHtlrt",
+      "method": "js_func:lgttHreptU",
       "error": null,
       "debug": []
     },
@@ -120,7 +120,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=atnnewsss&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:getUHptltr",
+      "method": "js_func:rUlgtttHep",
       "error": null,
       "debug": []
     },
@@ -135,7 +135,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=aynatvbd&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:pteUHttrlg",
+      "method": "js_func:rtlgtpUetH",
       "error": null,
       "debug": []
     },
@@ -150,7 +150,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=azantv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:grtpeHUttl",
+      "method": "js_func:HrptgelttU",
       "error": null,
       "debug": []
     },
@@ -165,7 +165,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=banglarkontho&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tglpteHrtU",
+      "method": "js_func:tHrtgUlpte",
       "error": null,
       "debug": []
     },
@@ -180,7 +180,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=bvsn564sdes&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:eltpUgttHr",
+      "method": "js_func:HgUtettrpl",
       "error": null,
       "debug": []
     },
@@ -191,12 +191,12 @@
       "categories": [
         "bangla-channel"
       ],
-      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/bartomantv.stream/playlist.m3u8?wmsAuthSign=",
-      "stream_type": "m3u8",
-      "embed_url": "https://tvz.jagobd.com/embed.php?u=eyetv&amp;vw=700&amp;vh=480&autoplay=true",
-      "status": "ok",
-      "method": "js_func:rHtUgpltet",
-      "error": null,
+      "stream_url": null,
+      "stream_type": null,
+      "embed_url": null,
+      "status": "error",
+      "method": null,
+      "error": "HTTPSConnectionPool(host='www.jagobd.com', port=443): Max retries exceeded with url: /bartomantelevision (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.jagobd.com', port=443): Read timed out. (read timeout=25)\"))",
       "debug": []
     },
     {
@@ -210,7 +210,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=biswabanglatv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tlHtrtUgep",
+      "method": "js_func:trtpegHtlU",
       "error": null,
       "debug": []
     },
@@ -225,7 +225,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=boishakhitvp&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:HltttegrUp",
+      "method": "js_func:pUgettHrlt",
       "error": null,
       "debug": []
     },
@@ -240,7 +240,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=btvctg&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:HtglprteUt",
+      "method": "js_func:ttteHUlpgr",
       "error": null,
       "debug": []
     },
@@ -251,12 +251,12 @@
       "categories": [
         "bangla-channel"
       ],
-      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvnational1.stream/playlist.m3u8?wmsAuthSign=",
-      "stream_type": "m3u8",
-      "embed_url": "https://tvz.jagobd.com/embed.php?u=btvnationalbd&amp;vw=700&amp;vh=480&autoplay=true",
-      "status": "ok",
-      "method": "js_func:lttrpHteUg",
-      "error": null,
+      "stream_url": null,
+      "stream_type": null,
+      "embed_url": null,
+      "status": "error",
+      "method": null,
+      "error": "HTTPSConnectionPool(host='www.jagobd.com', port=443): Max retries exceeded with url: /btvnational (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.jagobd.com', port=443): Read timed out. (read timeout=25)\"))",
       "debug": []
     },
     {
@@ -270,7 +270,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=btvworlds&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tHUelprttg",
+      "method": "js_func:lteHtUrtpg",
       "error": null,
       "debug": []
     },
@@ -281,12 +281,12 @@
       "categories": [
         "bangla-channel"
       ],
-      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/cb24.stream/playlist.m3u8?wmsAuthSign=",
-      "stream_type": "m3u8",
-      "embed_url": "https://tvz.jagobd.com/embed.php?u=atvcanada&amp;vw=700&amp;vh=480&autoplay=true",
-      "status": "ok",
-      "method": "js_func:ltetHrgpUt",
-      "error": null,
+      "stream_url": null,
+      "stream_type": null,
+      "embed_url": null,
+      "status": "error",
+      "method": null,
+      "error": "HTTPSConnectionPool(host='www.jagobd.com', port=443): Max retries exceeded with url: /cb24tv (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.jagobd.com', port=443): Read timed out. (read timeout=25)\"))",
       "debug": []
     },
     {
@@ -296,12 +296,12 @@
       "categories": [
         "bangla-channel"
       ],
-      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8?wmsAuthSign=",
-      "stream_type": "m3u8",
-      "embed_url": "https://tvz.jagobd.com/embed.php?u=cgtn&amp;vw=700&amp;vh=480&autoplay=true",
-      "status": "ok",
-      "method": "js_func:ttrHtegplU",
-      "error": null,
+      "stream_url": null,
+      "stream_type": null,
+      "embed_url": null,
+      "status": "error",
+      "method": null,
+      "error": "HTTPSConnectionPool(host='www.jagobd.com', port=443): Max retries exceeded with url: /cgtn (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.jagobd.com', port=443): Read timed out. (read timeout=25)\"))",
       "debug": []
     },
     {
@@ -311,12 +311,12 @@
       "categories": [
         "bangla-channel"
       ],
-      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/cgtndoc.stream/playlist.m3u8?wmsAuthSign=",
-      "stream_type": "m3u8",
-      "embed_url": "https://tvz.jagobd.com/embed.php?u=cgtndoc&amp;vw=700&amp;vh=480&autoplay=true",
-      "status": "ok",
-      "method": "js_func:rUtgHttepl",
-      "error": null,
+      "stream_url": null,
+      "stream_type": null,
+      "embed_url": null,
+      "status": "error",
+      "method": null,
+      "error": "HTTPSConnectionPool(host='www.jagobd.com', port=443): Max retries exceeded with url: /cgtndocumentary (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.jagobd.com', port=443): Read timed out. (read timeout=25)\"))",
       "debug": []
     },
     {
@@ -326,12 +326,12 @@
       "categories": [
         "bangla-channel"
       ],
-      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/playlist.m3u8?wmsAuthSign=",
-      "stream_type": "m3u8",
-      "embed_url": "https://tvz.jagobd.com/embed.php?u=channel1bangladesh&amp;vw=700&amp;vh=480&autoplay=true",
-      "status": "ok",
-      "method": "js_func:HgUelrtttp",
-      "error": null,
+      "stream_url": null,
+      "stream_type": null,
+      "embed_url": null,
+      "status": "error",
+      "method": null,
+      "error": "HTTPSConnectionPool(host='www.jagobd.com', port=443): Max retries exceeded with url: /channel1 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.jagobd.com', port=443): Read timed out. (read timeout=25)\"))",
       "debug": []
     },
     {
@@ -341,12 +341,12 @@
       "categories": [
         "bangla-channel"
       ],
-      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/playlist.m3u8?wmsAuthSign=",
-      "stream_type": "m3u8",
-      "embed_url": "https://tvz.jagobd.com/embed.php?u=channel16bd&amp;vw=700&amp;vh=480&autoplay=true",
-      "status": "ok",
-      "method": "js_func:gprettHlUt",
-      "error": null,
+      "stream_url": null,
+      "stream_type": null,
+      "embed_url": null,
+      "status": "error",
+      "method": null,
+      "error": "HTTPSConnectionPool(host='www.jagobd.com', port=443): Max retries exceeded with url: /channel16 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.jagobd.com', port=443): Read timed out. (read timeout=25)\"))",
       "debug": []
     },
     {
@@ -356,12 +356,12 @@
       "categories": [
         "bangla-channel"
       ],
-      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel24-sg-e8e.stream/playlist.m3u8?wmsAuthSign=",
-      "stream_type": "m3u8",
-      "embed_url": "https://tvz.jagobd.com/embed.php?u=channel241&amp;vw=700&amp;vh=480&autoplay=true",
-      "status": "ok",
-      "method": "js_func:tptUelHrtg",
-      "error": null,
+      "stream_url": null,
+      "stream_type": null,
+      "embed_url": null,
+      "status": "error",
+      "method": null,
+      "error": "HTTPSConnectionPool(host='www.jagobd.com', port=443): Max retries exceeded with url: /channel24 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.jagobd.com', port=443): Read timed out. (read timeout=25)\"))",
       "debug": []
     },
     {
@@ -371,12 +371,12 @@
       "categories": [
         "bangla-channel"
       ],
-      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel25usa.stream/playlist.m3u8?wmsAuthSign=",
-      "stream_type": "m3u8",
-      "embed_url": "https://tvz.jagobd.com/embed.php?u=channel25usa&amp;vw=700&amp;vh=480&autoplay=true",
-      "status": "ok",
-      "method": "js_func:HpUegltttr",
-      "error": null,
+      "stream_url": null,
+      "stream_type": null,
+      "embed_url": null,
+      "status": "error",
+      "method": null,
+      "error": "HTTPSConnectionPool(host='www.jagobd.com', port=443): Max retries exceeded with url: /channel52usa (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.jagobd.com', port=443): Read timed out. (read timeout=25)\"))",
       "debug": []
     },
     {
@@ -386,12 +386,12 @@
       "categories": [
         "bangla-channel"
       ],
-      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8?wmsAuthSign=",
-      "stream_type": "m3u8",
-      "embed_url": "https://tvz.jagobd.com/embed.php?u=channel9hd&amp;vw=700&amp;vh=480&autoplay=true",
-      "status": "ok",
-      "method": "js_func:HrUetpltgt",
-      "error": null,
+      "stream_url": null,
+      "stream_type": null,
+      "embed_url": null,
+      "status": "error",
+      "method": null,
+      "error": "HTTPSConnectionPool(host='www.jagobd.com', port=443): Max retries exceeded with url: /channel9hd (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.jagobd.com', port=443): Read timed out. (read timeout=25)\"))",
       "debug": []
     },
     {
@@ -401,12 +401,12 @@
       "categories": [
         "bangla-channel"
       ],
-      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8?wmsAuthSign=",
-      "stream_type": "m3u8",
-      "embed_url": "https://tvz.jagobd.com/embed.php?u=chsbd&amp;vw=700&amp;vh=480&autoplay=true",
-      "status": "ok",
-      "method": "js_func:ptHtgretUl",
-      "error": null,
+      "stream_url": null,
+      "stream_type": null,
+      "embed_url": null,
+      "status": "error",
+      "method": null,
+      "error": "HTTPSConnectionPool(host='www.jagobd.com', port=443): Max retries exceeded with url: /channelsbd (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.jagobd.com', port=443): Read timed out. (read timeout=25)\"))",
       "debug": []
     },
     {
@@ -416,12 +416,12 @@
       "categories": [
         "bangla-channel"
       ],
-      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/chsukoff.stream/playlist.m3u8?wmsAuthSign=",
-      "stream_type": "m3u8",
-      "embed_url": "https://tvz.jagobd.com/embed.php?u=chsuk&amp;vw=700&amp;vh=480&autoplay=true",
-      "status": "ok",
-      "method": "js_func:tgtlrHtUpe",
-      "error": null,
+      "stream_url": null,
+      "stream_type": null,
+      "embed_url": null,
+      "status": "error",
+      "method": null,
+      "error": "HTTPSConnectionPool(host='www.jagobd.com', port=443): Max retries exceeded with url: /channelsuk (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.jagobd.com', port=443): Read timed out. (read timeout=25)\"))",
       "debug": []
     },
     {
@@ -431,12 +431,12 @@
       "categories": [
         "bangla-channel"
       ],
-      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8?wmsAuthSign=",
-      "stream_type": "m3u8",
-      "embed_url": "https://tvz.jagobd.com/embed.php?u=chibd1&amp;vw=700&amp;vh=480&autoplay=true",
-      "status": "ok",
-      "method": "js_func:trtetglpHU",
-      "error": null,
+      "stream_url": null,
+      "stream_type": null,
+      "embed_url": null,
+      "status": "error",
+      "method": null,
+      "error": "HTTPSConnectionPool(host='www.jagobd.com', port=443): Max retries exceeded with url: /channeli (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.jagobd.com', port=443): Read timed out. (read timeout=25)\"))",
       "debug": []
     },
     {
@@ -446,12 +446,12 @@
       "categories": [
         "bangla-channel"
       ],
-      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8?wmsAuthSign=",
-      "stream_type": "m3u8",
-      "embed_url": "https://tvz.jagobd.com/embed.php?u=dbcnews&amp;vw=700&amp;vh=480&autoplay=true",
-      "status": "ok",
-      "method": "js_func:ttltUpHrge",
-      "error": null,
+      "stream_url": null,
+      "stream_type": null,
+      "embed_url": null,
+      "status": "error",
+      "method": null,
+      "error": "HTTPSConnectionPool(host='www.jagobd.com', port=443): Max retries exceeded with url: /dbcnews (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.jagobd.com', port=443): Read timed out. (read timeout=25)\"))",
       "debug": []
     },
     {
@@ -461,12 +461,12 @@
       "categories": [
         "bangla-channel"
       ],
-      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deentv.stream/playlist.m3u8?wmsAuthSign=",
-      "stream_type": "m3u8",
-      "embed_url": "https://tvz.jagobd.com/embed.php?u=deentv&amp;vw=700&amp;vh=480&autoplay=true",
-      "status": "ok",
-      "method": "js_func:rUptetlHgt",
-      "error": null,
+      "stream_url": null,
+      "stream_type": null,
+      "embed_url": null,
+      "status": "error",
+      "method": null,
+      "error": "HTTPSConnectionPool(host='www.jagobd.com', port=443): Max retries exceeded with url: /deentvuk (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.jagobd.com', port=443): Read timed out. (read timeout=25)\"))",
       "debug": []
     },
     {
@@ -476,12 +476,12 @@
       "categories": [
         "bangla-channel"
       ],
-      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshbanglatv.stream/playlist.m3u8?wmsAuthSign=",
-      "stream_type": "m3u8",
-      "embed_url": "https://tvz.jagobd.com/embed.php?u=deshbangla247tv&amp;vw=700&amp;vh=480&autoplay=true",
-      "status": "ok",
-      "method": "js_func:HeptgtUltr",
-      "error": null,
+      "stream_url": null,
+      "stream_type": null,
+      "embed_url": null,
+      "status": "error",
+      "method": null,
+      "error": "HTTPSConnectionPool(host='www.jagobd.com', port=443): Max retries exceeded with url: /deshbanglatv (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.jagobd.com', port=443): Read timed out. (read timeout=25)\"))",
       "debug": []
     },
     {
@@ -491,12 +491,12 @@
       "categories": [
         "bangla-channel"
       ],
-      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8?wmsAuthSign=",
-      "stream_type": "m3u8",
-      "embed_url": "https://tvz.jagobd.com/embed.php?u=deshtv1&amp;vw=700&amp;vh=480&autoplay=true",
-      "status": "ok",
-      "method": "js_func:tUlHttegpr",
-      "error": null,
+      "stream_url": null,
+      "stream_type": null,
+      "embed_url": null,
+      "status": "error",
+      "method": null,
+      "error": "HTTPSConnectionPool(host='www.jagobd.com', port=443): Max retries exceeded with url: /deshtv (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.jagobd.com', port=443): Read timed out. (read timeout=25)\"))",
       "debug": []
     },
     {
@@ -506,12 +506,12 @@
       "categories": [
         "bangla-channel"
       ],
-      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshebideshe.stream/playlist.m3u8?wmsAuthSign=",
-      "stream_type": "m3u8",
-      "embed_url": "https://tvz.jagobd.com/embed.php?u=deshebideshe&amp;vw=700&amp;vh=480&autoplay=true",
-      "status": "ok",
-      "method": "js_func:ltUpgreHtt",
-      "error": null,
+      "stream_url": null,
+      "stream_type": null,
+      "embed_url": null,
+      "status": "error",
+      "method": null,
+      "error": "HTTPSConnectionPool(host='www.jagobd.com', port=443): Max retries exceeded with url: /deshebideshe-tv (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.jagobd.com', port=443): Read timed out. (read timeout=25)\"))",
       "debug": []
     },
     {
@@ -521,12 +521,12 @@
       "categories": [
         "bangla-channel"
       ],
-      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/dimtv.stream/playlist.m3u8?wmsAuthSign=",
-      "stream_type": "m3u8",
-      "embed_url": "https://tvz.jagobd.com/embed.php?u=dimtv&amp;vw=700&amp;vh=480&autoplay=true",
-      "status": "ok",
-      "method": "js_func:tetgtpHUlr",
-      "error": null,
+      "stream_url": null,
+      "stream_type": null,
+      "embed_url": null,
+      "status": "error",
+      "method": null,
+      "error": "HTTPSConnectionPool(host='www.jagobd.com', port=443): Max retries exceeded with url: /dim (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.jagobd.com', port=443): Read timed out. (read timeout=25)\"))",
       "debug": []
     },
     {
@@ -536,12 +536,12 @@
       "categories": [
         "bangla-channel"
       ],
-      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8?wmsAuthSign=",
-      "stream_type": "m3u8",
-      "embed_url": "https://tvz.jagobd.com/embed.php?u=discoverpakistantv&amp;vw=700&amp;vh=480&autoplay=true",
-      "status": "ok",
-      "method": "js_func:HtltUgrtpe",
-      "error": null,
+      "stream_url": null,
+      "stream_type": null,
+      "embed_url": null,
+      "status": "error",
+      "method": null,
+      "error": "HTTPSConnectionPool(host='www.jagobd.com', port=443): Max retries exceeded with url: /discoverpakistan (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.jagobd.com', port=443): Read timed out. (read timeout=25)\"))",
       "debug": []
     },
     {
@@ -551,12 +551,12 @@
       "categories": [
         "bangla-channel"
       ],
-      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/dwnews.stream/playlist.m3u8?wmsAuthSign=",
-      "stream_type": "m3u8",
-      "embed_url": "https://tvz.jagobd.com/embed.php?u=dwnews&amp;vw=700&amp;vh=480&autoplay=true",
-      "status": "ok",
-      "method": "js_func:rttHetpglU",
-      "error": null,
+      "stream_url": null,
+      "stream_type": null,
+      "embed_url": null,
+      "status": "error",
+      "method": null,
+      "error": "HTTPSConnectionPool(host='www.jagobd.com', port=443): Max retries exceeded with url: /dwnews (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.jagobd.com', port=443): Read timed out. (read timeout=25)\"))",
       "debug": []
     },
     {
@@ -566,12 +566,12 @@
       "categories": [
         "bangla-channel"
       ],
-      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8?wmsAuthSign=",
-      "stream_type": "m3u8",
-      "embed_url": "https://tvz.jagobd.com/embed.php?u=ekattor12&amp;vw=700&amp;vh=480&autoplay=true",
-      "status": "ok",
-      "method": "js_func:gUtltHetrp",
-      "error": null,
+      "stream_url": null,
+      "stream_type": null,
+      "embed_url": null,
+      "status": "error",
+      "method": null,
+      "error": "HTTPSConnectionPool(host='www.jagobd.com', port=443): Max retries exceeded with url: /ekattor-tv (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.jagobd.com', port=443): Read timed out. (read timeout=25)\"))",
       "debug": []
     },
     {
@@ -581,12 +581,12 @@
       "categories": [
         "bangla-channel"
       ],
-      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8?wmsAuthSign=",
-      "stream_type": "m3u8",
-      "embed_url": "https://tvz.jagobd.com/embed.php?u=globalbd&amp;vw=700&amp;vh=480&autoplay=true",
-      "status": "ok",
-      "method": "js_func:UptelHtrtg",
-      "error": null,
+      "stream_url": null,
+      "stream_type": null,
+      "embed_url": null,
+      "status": "error",
+      "method": null,
+      "error": "HTTPSConnectionPool(host='www.jagobd.com', port=443): Max retries exceeded with url: /ekhontv (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.jagobd.com', port=443): Read timed out. (read timeout=25)\"))",
       "debug": []
     },
     {
@@ -596,12 +596,12 @@
       "categories": [
         "bangla-channel"
       ],
-      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8?wmsAuthSign=",
-      "stream_type": "m3u8",
-      "embed_url": "https://tvz.jagobd.com/embed.php?u=ekusheytvss&amp;vw=700&amp;vh=480&autoplay=true",
-      "status": "ok",
-      "method": "js_func:ltrHptUtge",
-      "error": null,
+      "stream_url": null,
+      "stream_type": null,
+      "embed_url": null,
+      "status": "error",
+      "method": null,
+      "error": "HTTPSConnectionPool(host='www.jagobd.com', port=443): Max retries exceeded with url: /ekushey-tv (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.jagobd.com', port=443): Read timed out. (read timeout=25)\"))",
       "debug": []
     },
     {
@@ -611,12 +611,12 @@
       "categories": [
         "bangla-channel"
       ],
-      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eptv.stream/playlist.m3u8?wmsAuthSign=",
-      "stream_type": "m3u8",
-      "embed_url": "https://tvz.jagobd.com/embed.php?u=eptv&amp;vw=700&amp;vh=480&autoplay=true",
-      "status": "ok",
-      "method": "js_func:rgpHelUttt",
-      "error": null,
+      "stream_url": null,
+      "stream_type": null,
+      "embed_url": null,
+      "status": "error",
+      "method": null,
+      "error": "HTTPSConnectionPool(host='www.jagobd.com', port=443): Max retries exceeded with url: /eptv (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.jagobd.com', port=443): Read timed out. (read timeout=25)\"))",
       "debug": []
     },
     {
@@ -626,12 +626,12 @@
       "categories": [
         "bangla-channel"
       ],
-      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/bartoman.stream/playlist.m3u8?wmsAuthSign=",
-      "stream_type": "m3u8",
-      "embed_url": "https://tvz.jagobd.com/embed.php?u=esatv&amp;vw=700&amp;vh=480&autoplay=true",
-      "status": "ok",
-      "method": "js_func:tUtHplertg",
-      "error": null,
+      "stream_url": null,
+      "stream_type": null,
+      "embed_url": null,
+      "status": "error",
+      "method": null,
+      "error": "HTTPSConnectionPool(host='www.jagobd.com', port=443): Max retries exceeded with url: /esatv (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.jagobd.com', port=443): Read timed out. (read timeout=25)\"))",
       "debug": []
     },
     {
@@ -645,7 +645,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=eyetvbangla&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gtleUttprH",
+      "method": "js_func:etHplgrttU",
       "error": null,
       "debug": []
     },
@@ -656,12 +656,12 @@
       "categories": [
         "bangla-channel"
       ],
-      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8?wmsAuthSign=",
-      "stream_type": "m3u8",
-      "embed_url": "https://tvz.jagobd.com/embed.php?u=fr24&amp;vw=700&amp;vh=480&autoplay=true",
-      "status": "ok",
-      "method": "js_func:HgttUlrtpe",
-      "error": null,
+      "stream_url": null,
+      "stream_type": null,
+      "embed_url": null,
+      "status": "error",
+      "method": null,
+      "error": "HTTPSConnectionPool(host='www.jagobd.com', port=443): Max retries exceeded with url: /france24 (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.jagobd.com', port=443): Read timed out. (read timeout=25)\"))",
       "debug": []
     },
     {
@@ -675,7 +675,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=galaxytvbd&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tUHgetrptl",
+      "method": "js_func:HpttUrlegt",
       "error": null,
       "debug": []
     },
@@ -690,7 +690,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=gtvbd&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:HtpteltUgr",
+      "method": "js_func:HUrltgttep",
       "error": null,
       "debug": []
     },
@@ -705,7 +705,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=globalbdd&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gUtttHeplr",
+      "method": "js_func:rlUtttepHg",
       "error": null,
       "debug": []
     },
@@ -720,7 +720,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=green&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:HtprUgeltt",
+      "method": "js_func:etUlptrHgt",
       "error": null,
       "debug": []
     },
@@ -735,7 +735,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=amarbanglatv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tUgrHlpett",
+      "method": "js_func:tHerlgtpUt",
       "error": null,
       "debug": []
     },
@@ -750,7 +750,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=amardigital&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:eptltrtHgU",
+      "method": "js_func:tegtlptrUH",
       "error": null,
       "debug": []
     },
@@ -765,7 +765,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=anandabarta&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tregttUlpH",
+      "method": "js_func:ttpHltUger",
       "error": null,
       "debug": []
     },
@@ -780,7 +780,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=expressnews&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:UttHgrplte",
+      "method": "js_func:lperUgtHtt",
       "error": null,
       "debug": []
     },
@@ -795,7 +795,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=zodiak&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:pHegtlUttr",
+      "method": "js_func:etHltUtprg",
       "error": null,
       "debug": []
     },
@@ -810,7 +810,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=inde24s&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tegltprUtH",
+      "method": "js_func:rtgUtptelH",
       "error": null,
       "debug": []
     },
@@ -825,7 +825,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=iontvuk&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:lpegHttUrt",
+      "method": "js_func:pltetrtUHg",
       "error": null,
       "debug": []
     },
@@ -840,7 +840,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=alponatv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:ttUlgHpetr",
+      "method": "js_func:HUlgtttepr",
       "error": null,
       "debug": []
     },
@@ -855,7 +855,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=citizentv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tHeglrUtpt",
+      "method": "js_func:plHrUettgt",
       "error": null,
       "debug": []
     },
@@ -870,7 +870,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=modhupurnews24&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:rltgUttpHe",
+      "method": "js_func:UptttrelHg",
       "error": null,
       "debug": []
     },
@@ -885,7 +885,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=iqratvuk&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:lpHttergUt",
+      "method": "js_func:gptelHtrUt",
       "error": null,
       "debug": []
     },
@@ -900,7 +900,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=islamchbanglaeu&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:etrHtglptU",
+      "method": "js_func:gprtUHltet",
       "error": null,
       "debug": []
     },
@@ -915,7 +915,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=islamictvbd&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gHtltreUtp",
+      "method": "js_func:gHttpetrUl",
       "error": null,
       "debug": []
     },
@@ -945,7 +945,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=jagonews244&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:etpHtUtlgr",
+      "method": "js_func:lgrteHtptU",
       "error": null,
       "debug": []
     },
@@ -960,7 +960,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=jamunass&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tptUHerltg",
+      "method": "js_func:UHrlttetgp",
       "error": null,
       "debug": []
     },
@@ -975,7 +975,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=jatv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gelttHUtrp",
+      "method": "js_func:reHUpttgtl",
       "error": null,
       "debug": []
     },
@@ -990,7 +990,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=jonmobhumitv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gtUtHpterl",
+      "method": "js_func:prtlUegHtt",
       "error": null,
       "debug": []
     },
@@ -1005,7 +1005,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=madanibangla&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:peltrUtHtg",
+      "method": "js_func:lpUtetrtgH",
       "error": null,
       "debug": []
     },
@@ -1020,7 +1020,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=makkahlive&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:prHegttUlt",
+      "method": "js_func:HetltprtUg",
       "error": null,
       "debug": []
     },
@@ -1035,7 +1035,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=makkahtv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:HpltttegrU",
+      "method": "js_func:HpettUrtgl",
       "error": null,
       "debug": []
     },
@@ -1050,7 +1050,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=matribhumi&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gHUtertltp",
+      "method": "js_func:pgHettUltr",
       "error": null,
       "debug": []
     },
@@ -1065,7 +1065,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=medinatv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gUltHtpetr",
+      "method": "js_func:rplgttetHU",
       "error": null,
       "debug": []
     },
@@ -1080,7 +1080,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=millennium24&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:rtetlpgHtU",
+      "method": "js_func:pgrUtlttHe",
       "error": null,
       "debug": []
     },
@@ -1095,7 +1095,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=millennium&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:prUtlHtetg",
+      "method": "js_func:lUpgtrHtet",
       "error": null,
       "debug": []
     },
@@ -1110,7 +1110,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=mohonatvs&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:lgerUtptHt",
+      "method": "js_func:etUtlHgptr",
       "error": null,
       "debug": []
     },
@@ -1125,7 +1125,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=moviebangla-ups&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:pltgttHerU",
+      "method": "js_func:UtprtgHlet",
       "error": null,
       "debug": []
     },
@@ -1140,7 +1140,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=musicbangla&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tHtelUptgr",
+      "method": "js_func:erUtttlHgp",
       "error": null,
       "debug": []
     },
@@ -1155,7 +1155,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=musicbangla26&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tgUHplttre",
+      "method": "js_func:UpHrgltett",
       "error": null,
       "debug": []
     },
@@ -1170,7 +1170,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=sdfsdfgs&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:pUltretHgt",
+      "method": "js_func:HprltttgUe",
       "error": null,
       "debug": []
     },
@@ -1185,7 +1185,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=nantv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tgtHUrtple",
+      "method": "js_func:ttpHgtUler",
       "error": null,
       "debug": []
     },
@@ -1200,7 +1200,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=news24bd&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tHpgetlrtU",
+      "method": "js_func:tHrUettpgl",
       "error": null,
       "debug": []
     },
@@ -1215,7 +1215,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=nexustv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tUtlrpHegt",
+      "method": "js_func:lettHrUgtp",
       "error": null,
       "debug": []
     },
@@ -1230,7 +1230,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=noboruptv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:pltHrgettU",
+      "method": "js_func:gtHrUelttp",
       "error": null,
       "debug": []
     },
@@ -1245,7 +1245,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=nrbtv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:glHUteptrt",
+      "method": "js_func:rttUpHgtel",
       "error": null,
       "debug": []
     },
@@ -1260,7 +1260,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=nokia&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tpgHlteUrt",
+      "method": "js_func:UetHglrtpt",
       "error": null,
       "debug": []
     },
@@ -1275,7 +1275,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=opentv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:HgerlttpUt",
+      "method": "js_func:tHtglUpter",
       "error": null,
       "debug": []
     },
@@ -1290,7 +1290,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=peacetvbang&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tgrHtptUle",
+      "method": "js_func:pltUrtgeHt",
       "error": null,
       "debug": []
     },
@@ -1305,7 +1305,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=voicetv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gleUttpHtr",
+      "method": "js_func:gUttltpHre",
       "error": null,
       "debug": []
     },
@@ -1320,7 +1320,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=qurantvbangla&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:HlteprtgUt",
+      "method": "js_func:etptUrHtgl",
       "error": null,
       "debug": []
     },
@@ -1335,7 +1335,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=rtvss5&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:lHUtgtpter",
+      "method": "js_func:rpeHttlgtU",
       "error": null,
       "debug": []
     },
@@ -1350,7 +1350,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=rtvmusic&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:ltpttHerUg",
+      "method": "js_func:ltpUHgtret",
       "error": null,
       "debug": []
     },
@@ -1365,7 +1365,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=ruposhitv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tHlttrpegU",
+      "method": "js_func:ptgtetlrHU",
       "error": null,
       "debug": []
     },
@@ -1380,7 +1380,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=satvs24&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:lgpttUertH",
+      "method": "js_func:leUrptHttg",
       "error": null,
       "debug": []
     },
@@ -1395,7 +1395,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=samaykolkata&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:rptHgltUte",
+      "method": "js_func:tUlgerHptt",
       "error": null,
       "debug": []
     },
@@ -1410,7 +1410,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=sananda&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:trHUleptgt",
+      "method": "js_func:tterlgHtpU",
       "error": null,
       "debug": []
     },
@@ -1425,7 +1425,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=shikortv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:HrttlepUgt",
+      "method": "js_func:rtlUetptHg",
       "error": null,
       "debug": []
     },
@@ -1440,7 +1440,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=somoy5&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:rtHlUptget",
+      "method": "js_func:HpetUltgrt",
       "error": null,
       "debug": []
     },
@@ -1455,7 +1455,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=sangsadtv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:HUtrepgttl",
+      "method": "js_func:tHltrUegtp",
       "error": null,
       "debug": []
     },
@@ -1470,7 +1470,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=starnews&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tepUgtrlHt",
+      "method": "js_func:elrptttgHU",
       "error": null,
       "debug": []
     },
@@ -1485,7 +1485,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=tehelkatv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tpHtlUergt",
+      "method": "js_func:tgptHeUrlt",
       "error": null,
       "debug": []
     },
@@ -1500,7 +1500,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=thechanneltv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:UtretltpHg",
+      "method": "js_func:trHptegltU",
       "error": null,
       "debug": []
     },
@@ -1515,7 +1515,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=thikanatv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:pHrgtUtetl",
+      "method": "js_func:tltHtrUepg",
       "error": null,
       "debug": []
     },
@@ -1530,7 +1530,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=timetv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:epUtrttHlg",
+      "method": "js_func:ttrHtUelgp",
       "error": null,
       "debug": []
     },
@@ -1545,7 +1545,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=times24&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:rttHtegplU",
+      "method": "js_func:pUtgHtertl",
       "error": null,
       "debug": []
     },
@@ -1560,7 +1560,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=toroni24tv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:UltprttHeg",
+      "method": "js_func:rpHgtttUel",
       "error": null,
       "debug": []
     },
@@ -1575,7 +1575,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=tvoneuk&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:prUteHttgl",
+      "method": "js_func:gpttrHUlte",
       "error": null,
       "debug": []
     },
@@ -1590,7 +1590,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=untv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gtlHtUeprt",
+      "method": "js_func:tpUHgrettl",
       "error": null,
       "debug": []
     },
@@ -1605,7 +1605,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=unmochontv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:HrlgetttpU",
+      "method": "js_func:rlUegtpHtt",
       "error": null,
       "debug": []
     },
@@ -1620,7 +1620,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=v2beattv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tlHpgtreUt",
+      "method": "js_func:getHUtrptl",
       "error": null,
       "debug": []
     },
@@ -1635,7 +1635,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=varendratv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tUHglprett",
+      "method": "js_func:tlUHteprtg",
       "error": null,
       "debug": []
     },
@@ -1650,7 +1650,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=voado&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tgrHttlpeU",
+      "method": "js_func:tgtpeUtrHl",
       "error": null,
       "debug": []
     },
@@ -1665,7 +1665,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=voa&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:eUtHptltgr",
+      "method": "js_func:tlgtpetHrU",
       "error": null,
       "debug": []
     }
