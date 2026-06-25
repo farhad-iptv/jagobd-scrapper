@@ -2,12 +2,12 @@
   "source": "https://www.jagobd.com",
   "total_channels": 111,
   "with_stream": 110,
-  "updated_at": "2026-06-25 11:11:10 UTC",
+  "updated_at": "2026-06-25 13:29:20 UTC",
   "channels": [
     {
       "name": "Al Jazeera",
       "page_url": "https://www.jagobd.com/aljazeera",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2019/09/AljazeeraTV-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2019/09/AljazeeraTV-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -15,14 +15,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=aljazeera&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:trUtlHetgp",
+      "method": "js_func:eptltHtgrU",
       "error": null,
       "debug": []
     },
     {
       "name": "Ananda TV",
       "page_url": "https://www.jagobd.com/anandatv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -30,14 +30,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=anandatv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:treltgUtHp",
+      "method": "js_func:HltUgetrtp",
       "error": null,
       "debug": []
     },
     {
       "name": "Asian TV",
       "page_url": "https://www.jagobd.com/asiantv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2015/12/asiantv-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2015/12/asiantv-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -45,14 +45,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=asiantvbd26&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:UettlHrgpt",
+      "method": "js_func:tttepgrlHU",
       "error": null,
       "debug": []
     },
     {
       "name": "ATN Bangla",
       "page_url": "https://www.jagobd.com/atn-bangla",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -60,14 +60,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=atnbdss&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:eHpttgrtlU",
+      "method": "js_func:elUtpttrHg",
       "error": null,
       "debug": []
     },
     {
       "name": "ATN Bangla UK",
       "page_url": "https://www.jagobd.com/atnbanglauk",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/atnbanglauk11-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/atnbanglauk11-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -75,14 +75,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=atnuk&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gpUetrtHlt",
+      "method": "js_func:pHetlrgtUt",
       "error": null,
       "debug": []
     },
     {
       "name": "ATN Islamic TV",
       "page_url": "https://www.jagobd.com/atnislamictv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/atnislamictv-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/atnislamictv-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -90,14 +90,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=atnislamictv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tptHgleUtr",
+      "method": "js_func:HlttUgretp",
       "error": null,
       "debug": []
     },
     {
       "name": "ATN Music",
       "page_url": "https://www.jagobd.com/atnmusic",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2015/12/atnmusic-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2015/12/atnmusic-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -105,14 +105,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=atnmusic&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:pterHgtltU",
+      "method": "js_func:gtpteUtHrl",
       "error": null,
       "debug": []
     },
     {
       "name": "ATN News",
       "page_url": "https://www.jagobd.com/atnnews",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -120,14 +120,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=atnnewsss&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:pttltgeHrU",
+      "method": "js_func:elptHgrttU",
       "error": null,
       "debug": []
     },
     {
       "name": "Ayna TV",
       "page_url": "https://www.jagobd.com/aynatv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2025/07/ayna-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2025/07/ayna-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -135,14 +135,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=aynatvbd&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:peHrUltttg",
+      "method": "js_func:trteHptUgl",
       "error": null,
       "debug": []
     },
     {
       "name": "Azan TV Canada",
       "page_url": "https://www.jagobd.com/azan-tv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2019/04/azantvs-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2019/04/azantvs-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -150,14 +150,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=azantv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gteHrUtplt",
+      "method": "js_func:ttrteHgUpl",
       "error": null,
       "debug": []
     },
     {
       "name": "Banglar kontho 24",
       "page_url": "https://www.jagobd.com/banglarkontho24",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2026/06/bk-150x150.jpeg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2026/06/bk-150x150.jpeg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -165,14 +165,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=banglarkontho&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:ltpeUgHtrt",
+      "method": "js_func:trtplHtUge",
       "error": null,
       "debug": []
     },
     {
       "name": "Banglavision",
       "page_url": "https://www.jagobd.com/banglavision",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2015/10/bv-150x1501.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2015/10/bv-150x1501.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -180,14 +180,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=bvsn564sdes&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:grletHUptt",
+      "method": "js_func:prHUegtttl",
       "error": null,
       "debug": []
     },
     {
       "name": "BARTOMAN TELEVISION",
       "page_url": "https://www.jagobd.com/bartomantelevision",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2025/02/bartoman-web-150x150.jpeg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2025/02/bartoman-web-150x150.jpeg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -195,14 +195,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=eyetv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:UgretttpHl",
+      "method": "js_func:lrptgUettH",
       "error": null,
       "debug": []
     },
     {
       "name": "BiswaBangla 24",
       "page_url": "https://www.jagobd.com/biswabangla24",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2022/03/Logo-Still-150x150.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2022/03/Logo-Still-150x150.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -210,14 +210,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=biswabanglatv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:rUgetttlpH",
+      "method": "js_func:tUpHgtetlr",
       "error": null,
       "debug": []
     },
     {
       "name": "Boishakhi TV",
       "page_url": "https://www.jagobd.com/boishakhitv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -225,14 +225,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=boishakhitvp&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:prltegttHU",
+      "method": "js_func:tlgettUrHp",
       "error": null,
       "debug": []
     },
     {
       "name": "Btv Chittagong",
       "page_url": "https://www.jagobd.com/btv-chittagong",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2017/08/3WUFkD8.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2017/08/3WUFkD8.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -240,14 +240,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=btvctg&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:ttgplUHter",
+      "method": "js_func:UgttHetprl",
       "error": null,
       "debug": []
     },
     {
       "name": "BTV National",
       "page_url": "https://www.jagobd.com/btvnational",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2017/08/btvctg.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2017/08/btvctg.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -255,14 +255,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=btvnationalbd&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:lrtUpegHtt",
+      "method": "js_func:lteHrptgtU",
       "error": null,
       "debug": []
     },
     {
       "name": "BTV News",
       "page_url": "https://www.jagobd.com/btvnews",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2024/12/btv-news--150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/12/btv-news--150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -270,14 +270,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=btvworlds&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:peUgtrtHlt",
+      "method": "js_func:ltpHrtUtge",
       "error": null,
       "debug": []
     },
     {
       "name": "CB24 TV",
       "page_url": "https://www.jagobd.com/cb24tv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2024/01/CB24-PP-LOGO-150x150.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/01/CB24-PP-LOGO-150x150.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -285,14 +285,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=atvcanada&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:UttegplHtr",
+      "method": "js_func:tUrHlgttep",
       "error": null,
       "debug": []
     },
     {
       "name": "CGTN",
       "page_url": "https://www.jagobd.com/cgtn",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2022/10/CGTN-150x150.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2022/10/CGTN-150x150.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -300,14 +300,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=cgtn&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:rtltetUpHg",
+      "method": "js_func:ttgrlUpetH",
       "error": null,
       "debug": []
     },
     {
       "name": "CGTN Documentary",
       "page_url": "https://www.jagobd.com/cgtndocumentary",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2022/10/CGTN_Doc-150x150.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2022/10/CGTN_Doc-150x150.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -315,14 +315,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=cgtndoc&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:etrttHgUlp",
+      "method": "js_func:HettrgUtlp",
       "error": null,
       "debug": []
     },
     {
       "name": "Channel 1",
       "page_url": "https://www.jagobd.com/channel1",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2026/04/Channel1Bangladesh-1-150x150.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2026/04/Channel1Bangladesh-1-150x150.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -330,14 +330,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=channel1bangladesh&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:elprgtUHtt",
+      "method": "js_func:pettltUHrg",
       "error": null,
       "debug": []
     },
     {
       "name": "Channel 16",
       "page_url": "https://www.jagobd.com/channel16",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2026/01/channel16-150x150.jpeg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2026/01/channel16-150x150.jpeg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -345,14 +345,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=channel16bd&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:lgHrtttpeU",
+      "method": "js_func:grtltHpUte",
       "error": null,
       "debug": []
     },
     {
       "name": "Channel 24",
       "page_url": "https://www.jagobd.com/channel24",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/channel24-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/channel24-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -360,14 +360,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=channel241&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:ptrUetgHtl",
+      "method": "js_func:HrgttUtple",
       "error": null,
       "debug": []
     },
     {
       "name": "Channel 52 USA",
       "page_url": "https://www.jagobd.com/channel52usa",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2024/12/ch52-1-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/12/ch52-1-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -375,14 +375,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=channel25usa&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:rptHUgeltt",
+      "method": "js_func:HtptegltUr",
       "error": null,
       "debug": []
     },
     {
       "name": "Channel 9",
       "page_url": "https://www.jagobd.com/channel9hd",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -390,14 +390,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=channel9hd&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gtHeprtlUt",
+      "method": "js_func:ettHprgtlU",
       "error": null,
       "debug": []
     },
     {
       "name": "Channel S BD",
       "page_url": "https://www.jagobd.com/channelsbd",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/chsbd-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/chsbd-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -405,14 +405,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=chsbd&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:lHtgpUtetr",
+      "method": "js_func:ttHpetrlUg",
       "error": null,
       "debug": []
     },
     {
       "name": "Channel S UK",
       "page_url": "https://www.jagobd.com/channelsuk",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/channelsukup.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/channelsukup.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -420,14 +420,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=chsuk&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:UtretlgptH",
+      "method": "js_func:lpHgteUttr",
       "error": null,
       "debug": []
     },
     {
       "name": "Channeli",
       "page_url": "https://www.jagobd.com/channeli",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -435,14 +435,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=chibd1&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:etpltgrHUt",
+      "method": "js_func:tHrtUtlgep",
       "error": null,
       "debug": []
     },
     {
       "name": "DBC News",
       "page_url": "https://www.jagobd.com/dbcnews",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/dbc-news-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/dbc-news-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -450,14 +450,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=dbcnews&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gtlUpeHrtt",
+      "method": "js_func:tUtgHreltp",
       "error": null,
       "debug": []
     },
     {
       "name": "Deen TV UK",
       "page_url": "https://www.jagobd.com/deentvuk",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2021/05/Deentv-150x150.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2021/05/Deentv-150x150.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -465,14 +465,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=deentv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:petttlgUHr",
+      "method": "js_func:trtgleHUpt",
       "error": null,
       "debug": []
     },
     {
       "name": "Desh Bangla TV",
       "page_url": "https://www.jagobd.com/deshbanglatv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2025/11/Desh-Bangla-Tv-150x150.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2025/11/Desh-Bangla-Tv-150x150.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -480,14 +480,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=deshbangla247tv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:rptglttUHe",
+      "method": "js_func:getrUtpHtl",
       "error": null,
       "debug": []
     },
     {
       "name": "Desh TV",
       "page_url": "https://www.jagobd.com/deshtv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2022/12/DESH-TV1-150x150.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2022/12/DESH-TV1-150x150.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -495,14 +495,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=deshtv1&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tttUgrlepH",
+      "method": "js_func:tpHUtltreg",
       "error": null,
       "debug": []
     },
     {
       "name": "DesheBideshe TV | Canada",
       "page_url": "https://www.jagobd.com/deshebideshe-tv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2016/08/deshebideshe-1-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2016/08/deshebideshe-1-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -510,14 +510,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=deshebideshe&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:teUlprgHtt",
+      "method": "js_func:tlepUHttrg",
       "error": null,
       "debug": []
     },
     {
       "name": "DIM",
       "page_url": "https://www.jagobd.com/dim",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2024/10/dim-150x150.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/10/dim-150x150.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -525,14 +525,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=dimtv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:rtUgHetplt",
+      "method": "js_func:glpteHUrtt",
       "error": null,
       "debug": []
     },
     {
       "name": "Discover Pakistan",
       "page_url": "https://www.jagobd.com/discoverpakistan",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2024/09/discoverpakistan-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/09/discoverpakistan-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -540,14 +540,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=discoverpakistantv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:eHgtprUttl",
+      "method": "js_func:UtrtpgHtle",
       "error": null,
       "debug": []
     },
     {
       "name": "DW News",
       "page_url": "https://www.jagobd.com/dwnews",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2019/07/dwnews-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2019/07/dwnews-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -555,14 +555,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=dwnews&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:UttrpgHelt",
+      "method": "js_func:gtepHUttlr",
       "error": null,
       "debug": []
     },
     {
       "name": "Ekattor TV",
       "page_url": "https://www.jagobd.com/ekattor-tv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2015/10/ekattors-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2015/10/ekattors-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -570,14 +570,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=ekattor12&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:ttrlUtpgeH",
+      "method": "js_func:etpgtrUltH",
       "error": null,
       "debug": []
     },
     {
       "name": "Ekhon TV",
       "page_url": "https://www.jagobd.com/ekhontv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/ekhontv-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/ekhontv-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -585,14 +585,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=globalbd&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:ettUlHtgpr",
+      "method": "js_func:UptHttelrg",
       "error": null,
       "debug": []
     },
     {
       "name": "Ekushey TV",
       "page_url": "https://www.jagobd.com/ekushey-tv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2015/12/ekusheytv-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2015/12/ekusheytv-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -600,14 +600,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=ekusheytvss&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:ttpeUrtgHl",
+      "method": "js_func:rpHlttgUet",
       "error": null,
       "debug": []
     },
     {
       "name": "EP TV",
       "page_url": "https://www.jagobd.com/eptv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2026/03/EPTV-Logo-400x400-1-150x150.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2026/03/EPTV-Logo-400x400-1-150x150.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -615,14 +615,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=eptv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:retHltgptU",
+      "method": "js_func:tpreHUtltg",
       "error": null,
       "debug": []
     },
     {
       "name": "ESA WEB TV",
       "page_url": "https://www.jagobd.com/esatv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2024/11/ESA_Patch_2022-150x150.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/11/ESA_Patch_2022-150x150.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -630,14 +630,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=esatv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gHlettUptr",
+      "method": "js_func:tptlrgetUH",
       "error": null,
       "debug": []
     },
     {
       "name": "Eye TV Bangla",
       "page_url": "https://www.jagobd.com/eyetvbangla",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2026/05/eye-tv-bangla-logo-150x150.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2026/05/eye-tv-bangla-logo-150x150.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -645,14 +645,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=eyetvbangla&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gHtUtlrtep",
+      "method": "js_func:getttrlHUp",
       "error": null,
       "debug": []
     },
     {
       "name": "France 24",
       "page_url": "https://www.jagobd.com/france24",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2019/07/francenews24-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2019/07/francenews24-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -660,14 +660,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=fr24&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:UtplgtHetr",
+      "method": "js_func:gltttHeUrp",
       "error": null,
       "debug": []
     },
     {
       "name": "Galaxy TV",
       "page_url": "https://www.jagobd.com/galaxytv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2026/02/galaxybd-150x150.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2026/02/galaxybd-150x150.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -675,14 +675,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=galaxytvbd&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:rtHgptlUte",
+      "method": "js_func:pttltUHegr",
       "error": null,
       "debug": []
     },
     {
       "name": "Gazi Television – GTV",
       "page_url": "https://www.jagobd.com/gtv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2024/11/gtv-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/11/gtv-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -690,14 +690,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=gtvbd&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:rttlgHtepU",
+      "method": "js_func:tlretgHUpt",
       "error": null,
       "debug": []
     },
     {
       "name": "Global TV Bangladesh",
       "page_url": "https://www.jagobd.com/globaltelevision",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2021/11/globaltv-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2021/11/globaltv-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -705,14 +705,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=globalbdd&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tltgHptUre",
+      "method": "js_func:HttltegpUr",
       "error": null,
       "debug": []
     },
     {
       "name": "Green TV",
       "page_url": "https://www.jagobd.com/greentv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2022/12/green-tv-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2022/12/green-tv-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -720,14 +720,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=green&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:etrtHpgUtl",
+      "method": "js_func:pertlUtHgt",
       "error": null,
       "debug": []
     },
     {
       "name": "IN – Aamar Bangla",
       "page_url": "https://www.jagobd.com/aamarbanglatv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2022/07/Aamar-Bangla-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2022/07/Aamar-Bangla-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -735,14 +735,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=amarbanglatv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:UlttretpHg",
+      "method": "js_func:tegptHrUlt",
       "error": null,
       "debug": []
     },
     {
       "name": "IN-Amar Digital",
       "page_url": "https://www.jagobd.com/amardigital",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2024/09/amardigital-1-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/09/amardigital-1-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -750,14 +750,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=amardigital&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:trtlHteUpg",
+      "method": "js_func:trglttUHep",
       "error": null,
       "debug": []
     },
     {
       "name": "IN-Ananda Barta",
       "page_url": "https://www.jagobd.com/anandabarta",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/ANANDABARTA-150x150.jpeg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/ANANDABARTA-150x150.jpeg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -765,14 +765,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=anandabarta&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tglretptHU",
+      "method": "js_func:HgtlptrUte",
       "error": null,
       "debug": []
     },
     {
       "name": "IN-Express News",
       "page_url": "https://www.jagobd.com/expressnews",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2024/10/expressnews-150x150.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/10/expressnews-150x150.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -780,14 +780,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=expressnews&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:UlrHttpget",
+      "method": "js_func:UpHtrtlgte",
       "error": null,
       "debug": []
     },
     {
       "name": "IN-Zodiak TV",
       "page_url": "https://www.jagobd.com/zodiaktv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2024/09/zodiaktv-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/09/zodiaktv-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -795,14 +795,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=zodiak&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:HptrtUgelt",
+      "method": "js_func:gltrHetpUt",
       "error": null,
       "debug": []
     },
     {
       "name": "Independent TV",
       "page_url": "https://www.jagobd.com/independent",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2015/10/inds-150x150.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2015/10/inds-150x150.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -810,14 +810,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=inde24s&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gtlreHttpU",
+      "method": "js_func:rttgUtHlep",
       "error": null,
       "debug": []
     },
     {
       "name": "iON TV UK",
       "page_url": "https://www.jagobd.com/iontvuk",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2017/10/iontvuk.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2017/10/iontvuk.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -825,14 +825,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=iontvuk&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tUgHltertp",
+      "method": "js_func:HteUtgtprl",
       "error": null,
       "debug": []
     },
     {
       "name": "IPTV – Alpona TV",
       "page_url": "https://www.jagobd.com/alponatv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2020/06/alponatv-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2020/06/alponatv-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -840,14 +840,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=alponatv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:UgtrtetlpH",
+      "method": "js_func:tttHgUelpr",
       "error": null,
       "debug": []
     },
     {
       "name": "IPTV – Citizen TV",
       "page_url": "https://www.jagobd.com/citizentv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2026/04/citizentv-150x150.jpeg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2026/04/citizentv-150x150.jpeg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -855,14 +855,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=citizentv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:petHtglUrt",
+      "method": "js_func:rttUglptHe",
       "error": null,
       "debug": []
     },
     {
       "name": "IPTV – Madhupur News24",
       "page_url": "https://www.jagobd.com/madhupurnews24",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2026/05/modhupur-news-01-150x150.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2026/05/modhupur-news-01-150x150.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -870,14 +870,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=modhupurnews24&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:trgHpetUlt",
+      "method": "js_func:tpeHltUrgt",
       "error": null,
       "debug": []
     },
     {
       "name": "IQRA Bangla TV UK",
       "page_url": "https://www.jagobd.com/iqratv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV-150x150.jpeg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV-150x150.jpeg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -885,14 +885,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=iqratvuk&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:lUtertHtpg",
+      "method": "js_func:HtplgrUtte",
       "error": null,
       "debug": []
     },
     {
       "name": "Islam Ch Bangla",
       "page_url": "https://www.jagobd.com/islamchbangla",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/icb-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/icb-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -900,14 +900,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=islamchbanglaeu&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tgpHUtretl",
+      "method": "js_func:reglHptttU",
       "error": null,
       "debug": []
     },
     {
       "name": "Islamic TV",
       "page_url": "https://www.jagobd.com/islamictvbd",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2026/01/Islamictvbd-150x150.jpeg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2026/01/Islamictvbd-150x150.jpeg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -915,14 +915,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=islamictvbd&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:ettlUgrHtp",
+      "method": "js_func:trpHUgltte",
       "error": null,
       "debug": []
     },
     {
       "name": "ITV USA",
       "page_url": "https://www.jagobd.com/itvusa",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2026/01/4792092_n-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2026/01/4792092_n-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -937,7 +937,7 @@
     {
       "name": "Jago News 24",
       "page_url": "https://www.jagobd.com/jagonews24",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/pran-RFL-150x150.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/pran-RFL-150x150.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -945,14 +945,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=jagonews244&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:trHUlptteg",
+      "method": "js_func:trgptetUlH",
       "error": null,
       "debug": []
     },
     {
       "name": "Jamuna TV",
       "page_url": "https://www.jagobd.com/jamunatv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -960,14 +960,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=jamunass&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tlrtegtHpU",
+      "method": "js_func:HtertUtglp",
       "error": null,
       "debug": []
     },
     {
       "name": "JaTV",
       "page_url": "https://www.jagobd.com/jatv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2026/05/jatv-150x150.jpeg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2026/05/jatv-150x150.jpeg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -975,14 +975,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=jatv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:elrHttgptU",
+      "method": "js_func:UtettpgHrl",
       "error": null,
       "debug": []
     },
     {
       "name": "JonmoBhumi TV |Australia",
       "page_url": "https://www.jagobd.com/jonmobhumi-tv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2017/08/Jonmobhumi-Logo-2-150x120.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2017/08/Jonmobhumi-Logo-2-150x120.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -990,14 +990,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=jonmobhumitv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tpUelgHrtt",
+      "method": "js_func:lgterpttUH",
       "error": null,
       "debug": []
     },
     {
       "name": "Madani Ch. Bangla",
       "page_url": "https://www.jagobd.com/madanibanglatv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2020/05/Madani-Channel-Bangla-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2020/05/Madani-Channel-Bangla-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1005,14 +1005,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=madanibangla&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tpetglHrtU",
+      "method": "js_func:lrpgttUteH",
       "error": null,
       "debug": []
     },
     {
       "name": "Makkah Live",
       "page_url": "https://www.jagobd.com/makkahlive",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1020,14 +1020,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=makkahlive&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:rplegtHttU",
+      "method": "js_func:UHgtteptrl",
       "error": null,
       "debug": []
     },
     {
       "name": "Makkah TV",
       "page_url": "https://www.jagobd.com/makkahtv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2021/04/makkahtv-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2021/04/makkahtv-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1035,14 +1035,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=makkahtv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:etlrttUHgp",
+      "method": "js_func:tpreUtHlgt",
       "error": null,
       "debug": []
     },
     {
       "name": "Matri Bhumi TV",
       "page_url": "https://www.jagobd.com/matribhumi",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2024/10/matribhumi-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/10/matribhumi-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1050,14 +1050,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=matribhumi&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:rpUtttlgHe",
+      "method": "js_func:lteUttrHpg",
       "error": null,
       "debug": []
     },
     {
       "name": "Medina Live",
       "page_url": "https://www.jagobd.com/medinalive",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1065,14 +1065,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=medinatv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:lHtprettgU",
+      "method": "js_func:ptUeHlrgtt",
       "error": null,
       "debug": []
     },
     {
       "name": "Millennium24 | USA",
       "page_url": "https://www.jagobd.com/millennium24",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2020/08/millennium24-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2020/08/millennium24-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1080,14 +1080,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=millennium24&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:prglUttteH",
+      "method": "js_func:rttUtlpegH",
       "error": null,
       "debug": []
     },
     {
       "name": "MillenniumTV | USA",
       "page_url": "https://www.jagobd.com/millenniumtv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/mileninumTV-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/mileninumTV-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1095,14 +1095,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=millennium&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:ertgHplttU",
+      "method": "js_func:tlHtrgtepU",
       "error": null,
       "debug": []
     },
     {
       "name": "Mohona TV",
       "page_url": "https://www.jagobd.com/mohonatv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/mohona-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/mohona-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1110,14 +1110,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=mohonatvs&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:pgtlUretHt",
+      "method": "js_func:etpUgrlHtt",
       "error": null,
       "debug": []
     },
     {
       "name": "Movie Bangla",
       "page_url": "https://www.jagobd.com/moviebangla",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1125,29 +1125,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=moviebangla-ups&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:pHltrtetgU",
-      "error": null,
-      "debug": []
-    },
-    {
-      "name": "Music Bangla",
-      "page_url": "https://www.jagobd.com/musicbangla",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2024/12/mb-150x150.jpg?x71442",
-      "categories": [
-        "bangla-channel"
-      ],
-      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla2025.stream/playlist.m3u8?wmsAuthSign=",
-      "stream_type": "m3u8",
-      "embed_url": "https://tvz.jagobd.com/embed.php?u=musicbangla26&amp;vw=700&amp;vh=480&autoplay=true",
-      "status": "ok",
-      "method": "js_func:lUttetHrpg",
+      "method": "js_func:lHgUpttter",
       "error": null,
       "debug": []
     },
     {
       "name": "Music Bangla",
       "page_url": "https://www.jagobd.com/musicbanglabd",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2024/12/musicbangla-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/12/musicbangla-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1155,14 +1140,29 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=musicbangla&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:ttgtprHleU",
+      "method": "js_func:ltHtgtreUp",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Music Bangla",
+      "page_url": "https://www.jagobd.com/musicbangla",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/12/mb-150x150.jpg?x95285",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla2025.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=musicbangla26&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:eptgUHtltr",
       "error": null,
       "debug": []
     },
     {
       "name": "My TV",
       "page_url": "https://www.jagobd.com/my-tv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2015/12/mytv-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2015/12/mytv-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1170,14 +1170,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=sdfsdfgs&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:lregHttptU",
+      "method": "js_func:gtlpHUtter",
       "error": null,
       "debug": []
     },
     {
       "name": "NAN TV",
       "page_url": "https://www.jagobd.com/nantv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2019/11/NAN-TV-Logo-02-150x150.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2019/11/NAN-TV-Logo-02-150x150.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1185,14 +1185,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=nantv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:prHtlgteUt",
+      "method": "js_func:HrgepltttU",
       "error": null,
       "debug": []
     },
     {
       "name": "NEWS24 TV",
       "page_url": "https://www.jagobd.com/news24tv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1200,14 +1200,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=news24bd&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:pltgtHUter",
+      "method": "js_func:pHgterttlU",
       "error": null,
       "debug": []
     },
     {
       "name": "Nexus TV",
       "page_url": "https://www.jagobd.com/nexustv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2021/07/nexustv-150x150.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2021/07/nexustv-150x150.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1215,14 +1215,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=nexustv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tprlHgtUet",
+      "method": "js_func:tltrgHeptU",
       "error": null,
       "debug": []
     },
     {
       "name": "Noborup TV",
       "page_url": "https://www.jagobd.com/noboruptv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2025/12/n-150x150.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2025/12/n-150x150.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1230,14 +1230,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=noboruptv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:lUeHttrpgt",
+      "method": "js_func:tpUttHrlge",
       "error": null,
       "debug": []
     },
     {
       "name": "NRB TV | Canada",
       "page_url": "https://www.jagobd.com/nrbtv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2016/08/nrb.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2016/08/nrb.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1245,14 +1245,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=nrbtv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:pUttgltHre",
+      "method": "js_func:plHUtrtgte",
       "error": null,
       "debug": []
     },
     {
       "name": "Ntv Europe",
       "page_url": "https://www.jagobd.com/ntveurope",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/ntveurope-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/ntveurope-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1260,14 +1260,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=nokia&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:ptrtletHUg",
+      "method": "js_func:gltetptUrH",
       "error": null,
       "debug": []
     },
     {
       "name": "Open TV",
       "page_url": "https://www.jagobd.com/opentv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2021/06/OPEN-TV.jpeg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2021/06/OPEN-TV.jpeg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1275,14 +1275,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=opentv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:egtrtHltpU",
+      "method": "js_func:pttlgrUHte",
       "error": null,
       "debug": []
     },
     {
       "name": "Peace TV Bangla",
       "page_url": "https://www.jagobd.com/peacetvbangla",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/logo_50-150x150.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/logo_50-150x150.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1290,14 +1290,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=peacetvbang&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:HtltregUtp",
+      "method": "js_func:UerlptgtHt",
       "error": null,
       "debug": []
     },
     {
       "name": "Prime TV",
       "page_url": "https://www.jagobd.com/primetv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/Prime-Tv-Jagobd-150x150.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/Prime-Tv-Jagobd-150x150.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1305,14 +1305,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=voicetv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:pHtgrtUtel",
+      "method": "js_func:eUttgprtHl",
       "error": null,
       "debug": []
     },
     {
       "name": "Quran TV Bangla",
       "page_url": "https://www.jagobd.com/qurantvbangla",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2025/05/Copilot_20250530_180323-150x150.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2025/05/Copilot_20250530_180323-150x150.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1320,14 +1320,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=qurantvbangla&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:rHUtptgtle",
+      "method": "js_func:HUettltpgr",
       "error": null,
       "debug": []
     },
     {
       "name": "RTV",
       "page_url": "https://www.jagobd.com/rtv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/rtvbd-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/rtvbd-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1335,14 +1335,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=rtvss5&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:HetgttUrpl",
+      "method": "js_func:perttHlUtg",
       "error": null,
       "debug": []
     },
     {
       "name": "RTV Music",
       "page_url": "https://www.jagobd.com/rtvmusic",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1350,14 +1350,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=rtvmusic&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:glHtrttUpe",
+      "method": "js_func:tHUrtgtelp",
       "error": null,
       "debug": []
     },
     {
       "name": "Ruposhi Bangla TV",
       "page_url": "https://www.jagobd.com/ruposhibangla",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2024/09/unnamed-150x150.webp?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/09/unnamed-150x150.webp?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1365,14 +1365,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=ruposhitv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gtpeUlHrtt",
+      "method": "js_func:pgtlHtretU",
       "error": null,
       "debug": []
     },
     {
       "name": "SA TV",
       "page_url": "https://www.jagobd.com/satv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2015/12/satvs-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2015/12/satvs-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1380,14 +1380,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=satvs24&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tHUgtreltp",
+      "method": "js_func:trtgletUHp",
       "error": null,
       "debug": []
     },
     {
       "name": "Samay Kolkata",
       "page_url": "https://www.jagobd.com/samaykolkata",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/samaykolkata-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/samaykolkata-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1395,14 +1395,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=samaykolkata&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:lHtgpUtert",
+      "method": "js_func:lteHtUptrg",
       "error": null,
       "debug": []
     },
     {
       "name": "Sananda TV",
       "page_url": "https://www.jagobd.com/sanandatv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2024/10/sananda-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/10/sananda-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1410,14 +1410,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=sananda&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:terUpttHgl",
+      "method": "js_func:rptHtlgetU",
       "error": null,
       "debug": []
     },
     {
       "name": "Shikor TV Canada",
       "page_url": "https://www.jagobd.com/shikortv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2025/09/shikortv1-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2025/09/shikortv1-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1425,14 +1425,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=shikortv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gelrUHtttp",
+      "method": "js_func:UgpHtlettr",
       "error": null,
       "debug": []
     },
     {
       "name": "Somoy News",
       "page_url": "https://www.jagobd.com/somoynews",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/somoynews-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/somoynews-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1440,14 +1440,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=somoy5&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:rUgtpttHel",
+      "method": "js_func:tttUglHepr",
       "error": null,
       "debug": []
     },
     {
       "name": "Songsad TV",
       "page_url": "https://www.jagobd.com/songsadtv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/songsodtv-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/songsodtv-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1455,14 +1455,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=sangsadtv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tUrlptteHg",
+      "method": "js_func:ergtHtUptl",
       "error": null,
       "debug": []
     },
     {
       "name": "Star News",
       "page_url": "https://www.jagobd.com/sternews",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2025/12/images-150x150.jpeg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2025/12/images-150x150.jpeg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1470,14 +1470,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=starnews&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:leUtrHtptg",
+      "method": "js_func:rUttHlgpte",
       "error": null,
       "debug": []
     },
     {
       "name": "Tehelka TV",
       "page_url": "https://www.jagobd.com/tehelkatv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2021/03/TehelkaTV-150x150.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2021/03/TehelkaTV-150x150.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1485,14 +1485,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=tehelkatv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:trtlgHUetp",
+      "method": "js_func:lUttgeprHt",
       "error": null,
       "debug": []
     },
     {
       "name": "The Channel TV | Canada",
       "page_url": "https://www.jagobd.com/the-channeltv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2020/07/thechanneltv-1-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2020/07/thechanneltv-1-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1500,14 +1500,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=thechanneltv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:ptlHUttrge",
+      "method": "js_func:trpeUgHttl",
       "error": null,
       "debug": []
     },
     {
       "name": "Thikana TV | Web Test Transmission",
       "page_url": "https://www.jagobd.com/thikanatv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2026/01/thikana-150x150.jpeg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2026/01/thikana-150x150.jpeg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1515,14 +1515,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=thikanatv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:rltHeUgptt",
+      "method": "js_func:HlrteptgUt",
       "error": null,
       "debug": []
     },
     {
       "name": "Time Televison | USA",
       "page_url": "https://www.jagobd.com/timetv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/timetv-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/timetv-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1530,14 +1530,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=timetv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:UHletptrgt",
+      "method": "js_func:tptlgretHU",
       "error": null,
       "debug": []
     },
     {
       "name": "TIMES24 TV",
       "page_url": "https://www.jagobd.com/times24tv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2020/04/TIMES-24-TV-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2020/04/TIMES-24-TV-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1545,14 +1545,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=times24&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:eUltprtgtH",
+      "method": "js_func:leUttrptHg",
       "error": null,
       "debug": []
     },
     {
       "name": "Toroni24 TV",
       "page_url": "https://www.jagobd.com/toroni24tv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2025/07/Logo-For-Jagobd-2-01-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2025/07/Logo-For-Jagobd-2-01-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1560,14 +1560,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=toroni24tv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:trtUpgHlte",
+      "method": "js_func:rUtgtleptH",
       "error": null,
       "debug": []
     },
     {
       "name": "TV ONE UK",
       "page_url": "https://www.jagobd.com/tv-one-uk",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/TVONE-LOGO-Colour-150x150.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/TVONE-LOGO-Colour-150x150.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1575,14 +1575,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=tvoneuk&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:HrUttgtelp",
+      "method": "js_func:gtttlepHUr",
       "error": null,
       "debug": []
     },
     {
       "name": "UN WEB TV",
       "page_url": "https://www.jagobd.com/unwebtv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2025/01/UNTV-150x150.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2025/01/UNTV-150x150.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1590,14 +1590,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=untv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:rtHtpeUtlg",
+      "method": "js_func:ttpHeUgrtl",
       "error": null,
       "debug": []
     },
     {
       "name": "Unmochon Television",
       "page_url": "https://www.jagobd.com/unmochontv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2026/01/unmochon-TV-web-150x150.jpeg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2026/01/unmochon-TV-web-150x150.jpeg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1605,14 +1605,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=unmochontv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:ltgUrHetpt",
+      "method": "js_func:ettgrpHltU",
       "error": null,
       "debug": []
     },
     {
       "name": "V2BEAT TV Europe",
       "page_url": "https://www.jagobd.com/v2beattv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2020/05/V2BEATTV-150x150.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2020/05/V2BEATTV-150x150.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1620,14 +1620,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=v2beattv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:ptttrgeHlU",
+      "method": "js_func:tgtepHtrlU",
       "error": null,
       "debug": []
     },
     {
       "name": "Varendra TV",
       "page_url": "https://www.jagobd.com/varendra-tv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/varendro-tv-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2017/01/varendro-tv-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1635,14 +1635,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=varendratv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:lptHtregtU",
+      "method": "js_func:ttlgeUHprt",
       "error": null,
       "debug": []
     },
     {
       "name": "VOA 52 Documentary",
       "page_url": "https://www.jagobd.com/voa52documentary",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/52doc-150x150.png?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/08/52doc-150x150.png?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1650,14 +1650,14 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=voado&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:HUtrtteplg",
+      "method": "js_func:lHpretgtUt",
       "error": null,
       "debug": []
     },
     {
       "name": "Voice of America | VOA TV",
       "page_url": "https://www.jagobd.com/voatv",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2019/10/vooa-150x150.jpg?x71442",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2019/10/vooa-150x150.jpg?x95285",
       "categories": [
         "bangla-channel"
       ],
@@ -1665,7 +1665,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=voa&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:rHttUeglpt",
+      "method": "js_func:glpeHtttUr",
       "error": null,
       "debug": []
     }
