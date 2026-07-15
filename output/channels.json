@@ -2,7 +2,7 @@
   "source": "https://www.jagobd.com",
   "total_channels": 111,
   "with_stream": 110,
-  "updated_at": "2026-07-15 13:31:46 UTC",
+  "updated_at": "2026-07-15 15:27:09 UTC",
   "channels": [
     {
       "name": "Al Jazeera",
@@ -15,7 +15,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=aljazeera&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:HpUgttrtle",
+      "method": "js_func:lrtpegttUH",
       "error": null,
       "debug": []
     },
@@ -30,7 +30,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=anandatv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tUrtgpetHl",
+      "method": "js_func:HUlgptttre",
       "error": null,
       "debug": []
     },
@@ -45,7 +45,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=asiantvbd26&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:UHgtttpler",
+      "method": "js_func:UtrtlgtepH",
       "error": null,
       "debug": []
     },
@@ -60,7 +60,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=atnbdss&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:erttHglpUt",
+      "method": "js_func:lgprtUtHet",
       "error": null,
       "debug": []
     },
@@ -75,7 +75,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=atnuk&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:pgtlHteUrt",
+      "method": "js_func:trlHpgetUt",
       "error": null,
       "debug": []
     },
@@ -90,7 +90,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=atnislamictv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:rtetgpHltU",
+      "method": "js_func:lHtpreUttg",
       "error": null,
       "debug": []
     },
@@ -105,7 +105,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=atnmusic&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:trpelgtHUt",
+      "method": "js_func:glttHpUert",
       "error": null,
       "debug": []
     },
@@ -120,7 +120,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=atnnewsss&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:ltUHttperg",
+      "method": "js_func:rptlUgHtte",
       "error": null,
       "debug": []
     },
@@ -135,7 +135,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=aynatvbd&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:pUHtgtetlr",
+      "method": "js_func:rlHetUtgtp",
       "error": null,
       "debug": []
     },
@@ -150,7 +150,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=azantv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tlepgtrUHt",
+      "method": "js_func:UtgpHrltte",
       "error": null,
       "debug": []
     },
@@ -165,7 +165,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=banglarkontho&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:eHprUttltg",
+      "method": "js_func:gtptUtlHre",
       "error": null,
       "debug": []
     },
@@ -180,7 +180,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=bvsn564sdes&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tgtUpterHl",
+      "method": "js_func:pltrttUeHg",
       "error": null,
       "debug": []
     },
@@ -195,7 +195,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=eyetv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:pHettUltrg",
+      "method": "js_func:tlergtpHUt",
       "error": null,
       "debug": []
     },
@@ -210,7 +210,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=citizentv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:terUHltgpt",
+      "method": "js_func:HlgtepUrtt",
       "error": null,
       "debug": []
     },
@@ -225,7 +225,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=biswabanglatv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:reUHltgtpt",
+      "method": "js_func:UgHttrlpte",
       "error": null,
       "debug": []
     },
@@ -240,7 +240,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=boishakhitvp&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tegUplrtHt",
+      "method": "js_func:tUtleprtgH",
       "error": null,
       "debug": []
     },
@@ -255,7 +255,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=btvctg&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:geplrtUHtt",
+      "method": "js_func:leprHUgttt",
       "error": null,
       "debug": []
     },
@@ -270,7 +270,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=btvnationalbd&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gUetltprtH",
+      "method": "js_func:HplUtgtrte",
       "error": null,
       "debug": []
     },
@@ -285,7 +285,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=btvworlds&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:elrgtttUHp",
+      "method": "js_func:egHUtttrpl",
       "error": null,
       "debug": []
     },
@@ -300,7 +300,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=atvcanada&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:HgUlptertt",
+      "method": "js_func:ltUegpHtrt",
       "error": null,
       "debug": []
     },
@@ -315,7 +315,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=cgtn&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:grUltttpHe",
+      "method": "js_func:ttgHUtplre",
       "error": null,
       "debug": []
     },
@@ -330,7 +330,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=cgtndoc&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:pUtHtlretg",
+      "method": "js_func:tHlpttgUre",
       "error": null,
       "debug": []
     },
@@ -345,7 +345,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=channel1bangladesh&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:ptHlegUrtt",
+      "method": "js_func:HtrtgletUp",
       "error": null,
       "debug": []
     },
@@ -360,7 +360,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=channel16bd&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:lrpUttgteH",
+      "method": "js_func:eUttlprHtg",
       "error": null,
       "debug": []
     },
@@ -375,7 +375,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=channel241&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:rttHeUpglt",
+      "method": "js_func:HrtUglttpe",
       "error": null,
       "debug": []
     },
@@ -390,7 +390,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=channel25usa&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gUelHttrpt",
+      "method": "js_func:UpHtgtletr",
       "error": null,
       "debug": []
     },
@@ -405,7 +405,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=channel9hd&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tlHtgpeUtr",
+      "method": "js_func:tHpeUglttr",
       "error": null,
       "debug": []
     },
@@ -420,7 +420,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=chsbd&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tUttlHgepr",
+      "method": "js_func:tegpltrUHt",
       "error": null,
       "debug": []
     },
@@ -435,7 +435,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=chsuk&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:rHUetgltpt",
+      "method": "js_func:rtptHUlegt",
       "error": null,
       "debug": []
     },
@@ -450,7 +450,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=chibd1&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:ettHglptUr",
+      "method": "js_func:tUgtHreplt",
       "error": null,
       "debug": []
     },
@@ -465,7 +465,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=dbcnews&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tgrelpHttU",
+      "method": "js_func:tUrpeltHtg",
       "error": null,
       "debug": []
     },
@@ -480,7 +480,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=deentv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tUlpetHgtr",
+      "method": "js_func:lHUttrtgep",
       "error": null,
       "debug": []
     },
@@ -495,7 +495,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=deshbangla247tv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:ttlUtregHp",
+      "method": "js_func:tlgetUptrH",
       "error": null,
       "debug": []
     },
@@ -510,7 +510,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=deshtv1&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:lgtptretHU",
+      "method": "js_func:gtUHtptrel",
       "error": null,
       "debug": []
     },
@@ -525,7 +525,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=deshebideshe&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:rHUlpttget",
+      "method": "js_func:gUettHrtlp",
       "error": null,
       "debug": []
     },
@@ -540,7 +540,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=dimtv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:ttterglpUH",
+      "method": "js_func:tHgptUtlre",
       "error": null,
       "debug": []
     },
@@ -555,7 +555,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=discoverpakistantv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gUHpttlert",
+      "method": "js_func:gUtterHtpl",
       "error": null,
       "debug": []
     },
@@ -570,7 +570,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=dwnews&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gerHlUpttt",
+      "method": "js_func:UtepgHrtlt",
       "error": null,
       "debug": []
     },
@@ -585,7 +585,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=ekattor12&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:UgtepHtltr",
+      "method": "js_func:tlgrpHtUet",
       "error": null,
       "debug": []
     },
@@ -600,7 +600,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=globalbd&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:HteUlrtptg",
+      "method": "js_func:gprUetHtlt",
       "error": null,
       "debug": []
     },
@@ -615,7 +615,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=ekusheytvss&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tUtleHtpgr",
+      "method": "js_func:glUptetrHt",
       "error": null,
       "debug": []
     },
@@ -630,7 +630,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=eptv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tHgertlptU",
+      "method": "js_func:peHltrgttU",
       "error": null,
       "debug": []
     },
@@ -645,7 +645,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=esatv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:plHtgttrUe",
+      "method": "js_func:etrHpgtUtl",
       "error": null,
       "debug": []
     },
@@ -660,7 +660,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=eyetvbangla&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:ptrletUgHt",
+      "method": "js_func:pleUtHttrg",
       "error": null,
       "debug": []
     },
@@ -675,7 +675,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=fr24&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:rtttegpHlU",
+      "method": "js_func:lUtHttpreg",
       "error": null,
       "debug": []
     },
@@ -690,7 +690,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=galaxytvbd&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:lrtgUpHett",
+      "method": "js_func:tplgUtHrte",
       "error": null,
       "debug": []
     },
@@ -705,7 +705,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=gtvbd&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:UHtteltrpg",
+      "method": "js_func:tettUrHgpl",
       "error": null,
       "debug": []
     },
@@ -720,7 +720,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=globalbdd&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tlptHgrUet",
+      "method": "js_func:grtHUtlpte",
       "error": null,
       "debug": []
     },
@@ -735,7 +735,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=green&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:HgtUetpltr",
+      "method": "js_func:ertgHUlttp",
       "error": null,
       "debug": []
     },
@@ -750,7 +750,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=amarbanglatv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:ttUpteglrH",
+      "method": "js_func:gUeltprttH",
       "error": null,
       "debug": []
     },
@@ -765,7 +765,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=amardigital&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:eUtpHttrgl",
+      "method": "js_func:tUHptelgtr",
       "error": null,
       "debug": []
     },
@@ -780,7 +780,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=anandabarta&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:ttprtUlgHe",
+      "method": "js_func:HtrgtpUetl",
       "error": null,
       "debug": []
     },
@@ -795,7 +795,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=expressnews&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:eUtgtrlptH",
+      "method": "js_func:gtHtetUplr",
       "error": null,
       "debug": []
     },
@@ -810,7 +810,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=zodiak&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:UeHgprtttl",
+      "method": "js_func:eltrgttUpH",
       "error": null,
       "debug": []
     },
@@ -825,7 +825,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=inde24s&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:epUtlgttHr",
+      "method": "js_func:prgUetHttl",
       "error": null,
       "debug": []
     },
@@ -840,7 +840,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=iontvuk&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:ltetHrtUgp",
+      "method": "js_func:rUtHteltpg",
       "error": null,
       "debug": []
     },
@@ -855,7 +855,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=alponatv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tretHpUltg",
+      "method": "js_func:gHeUrttplt",
       "error": null,
       "debug": []
     },
@@ -870,7 +870,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=modhupurnews24&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:lHtprUttge",
+      "method": "js_func:telHgtrtUp",
       "error": null,
       "debug": []
     },
@@ -885,7 +885,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=iqratvuk&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:rUtlteHpgt",
+      "method": "js_func:glptteHUtr",
       "error": null,
       "debug": []
     },
@@ -900,7 +900,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=islamchbanglaeu&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tpglHtUret",
+      "method": "js_func:pttgeUlrtH",
       "error": null,
       "debug": []
     },
@@ -915,7 +915,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=islamictvbd&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:HtlrUtgtep",
+      "method": "js_func:pgtUttrleH",
       "error": null,
       "debug": []
     },
@@ -945,7 +945,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=jagonews244&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:ltUHrpegtt",
+      "method": "js_func:lprHtgeUtt",
       "error": null,
       "debug": []
     },
@@ -960,7 +960,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=jamunass&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:letpttrUgH",
+      "method": "js_func:eUrtHpgttl",
       "error": null,
       "debug": []
     },
@@ -975,7 +975,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=jatv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tgrUHtplet",
+      "method": "js_func:gUrltHpett",
       "error": null,
       "debug": []
     },
@@ -990,7 +990,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=jonmobhumitv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:UtlHgtrtep",
+      "method": "js_func:ttUpeHrlgt",
       "error": null,
       "debug": []
     },
@@ -1005,7 +1005,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=madanibangla&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:UettrtHpgl",
+      "method": "js_func:gHetrttUpl",
       "error": null,
       "debug": []
     },
@@ -1020,7 +1020,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=makkahlive&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gerlHttptU",
+      "method": "js_func:ttgrpUetHl",
       "error": null,
       "debug": []
     },
@@ -1035,7 +1035,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=makkahtv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gUHrteltpt",
+      "method": "js_func:gteUttrpHl",
       "error": null,
       "debug": []
     },
@@ -1050,7 +1050,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=matribhumi&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:UrpHeglttt",
+      "method": "js_func:tgteprUHlt",
       "error": null,
       "debug": []
     },
@@ -1065,7 +1065,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=medinatv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:HUrttpletg",
+      "method": "js_func:pttglerHUt",
       "error": null,
       "debug": []
     },
@@ -1080,7 +1080,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=millennium24&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:HtpUtgeltr",
+      "method": "js_func:tgptHUtler",
       "error": null,
       "debug": []
     },
@@ -1095,7 +1095,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=millennium&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tgrUelpHtt",
+      "method": "js_func:tUHltgpret",
       "error": null,
       "debug": []
     },
@@ -1110,7 +1110,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=mohonatvs&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gttelHrUpt",
+      "method": "js_func:eUgHttrlpt",
       "error": null,
       "debug": []
     },
@@ -1125,22 +1125,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=moviebangla-ups&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:eUrtglttHp",
-      "error": null,
-      "debug": []
-    },
-    {
-      "name": "Music Bangla",
-      "page_url": "https://www.jagobd.com/musicbanglabd",
-      "logo": "https://www.jagobd.com/wp-content/uploads/2024/12/musicbangla-150x150.jpg?x95285",
-      "categories": [
-        "bangla-channel"
-      ],
-      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla44.stream/playlist.m3u8?wmsAuthSign=",
-      "stream_type": "m3u8",
-      "embed_url": "https://tvz.jagobd.com/embed.php?u=musicbangla&amp;vw=700&amp;vh=480&autoplay=true",
-      "status": "ok",
-      "method": "js_func:tUHetgtlrp",
+      "method": "js_func:gtttpelUrH",
       "error": null,
       "debug": []
     },
@@ -1155,7 +1140,22 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=musicbangla26&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gpUlettHtr",
+      "method": "js_func:tgttpUlreH",
+      "error": null,
+      "debug": []
+    },
+    {
+      "name": "Music Bangla",
+      "page_url": "https://www.jagobd.com/musicbanglabd",
+      "logo": "https://www.jagobd.com/wp-content/uploads/2024/12/musicbangla-150x150.jpg?x95285",
+      "categories": [
+        "bangla-channel"
+      ],
+      "stream_url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla44.stream/playlist.m3u8?wmsAuthSign=",
+      "stream_type": "m3u8",
+      "embed_url": "https://tvz.jagobd.com/embed.php?u=musicbangla&amp;vw=700&amp;vh=480&autoplay=true",
+      "status": "ok",
+      "method": "js_func:teHltrpUgt",
       "error": null,
       "debug": []
     },
@@ -1170,7 +1170,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=sdfsdfgs&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:pltgetHUtr",
+      "method": "js_func:UertHgttpl",
       "error": null,
       "debug": []
     },
@@ -1185,7 +1185,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=nantv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tHeUttprlg",
+      "method": "js_func:rltgtUeptH",
       "error": null,
       "debug": []
     },
@@ -1200,7 +1200,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=news24bd&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:relttHgtUp",
+      "method": "js_func:HrUtetplgt",
       "error": null,
       "debug": []
     },
@@ -1215,7 +1215,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=nexustv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gUpetltHtr",
+      "method": "js_func:HrtegtlpUt",
       "error": null,
       "debug": []
     },
@@ -1230,7 +1230,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=noboruptv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tHrgeplttU",
+      "method": "js_func:tlUHtgpter",
       "error": null,
       "debug": []
     },
@@ -1245,7 +1245,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=nrbtv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:HepgttlUtr",
+      "method": "js_func:rHltegpUtt",
       "error": null,
       "debug": []
     },
@@ -1260,7 +1260,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=nokia&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:pHUgtretlt",
+      "method": "js_func:tlgetUHtrp",
       "error": null,
       "debug": []
     },
@@ -1275,7 +1275,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=opentv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:UgHtttlerp",
+      "method": "js_func:grtetlpHUt",
       "error": null,
       "debug": []
     },
@@ -1290,7 +1290,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=peacetvbang&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tplrHgttUe",
+      "method": "js_func:telttgpUHr",
       "error": null,
       "debug": []
     },
@@ -1305,7 +1305,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=voicetv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:HtrgtpetlU",
+      "method": "js_func:ttpgetlrUH",
       "error": null,
       "debug": []
     },
@@ -1320,7 +1320,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=qurantvbangla&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:ptHlegtrUt",
+      "method": "js_func:tlegpHttUr",
       "error": null,
       "debug": []
     },
@@ -1335,7 +1335,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=rtvss5&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:etplrgHttU",
+      "method": "js_func:tptUerltgH",
       "error": null,
       "debug": []
     },
@@ -1350,7 +1350,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=rtvmusic&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gUpteltrtH",
+      "method": "js_func:gtUpetrltH",
       "error": null,
       "debug": []
     },
@@ -1365,7 +1365,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=ruposhitv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tUeHtrltgp",
+      "method": "js_func:UHltgptret",
       "error": null,
       "debug": []
     },
@@ -1380,7 +1380,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=satvs24&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:ttgrUtlHep",
+      "method": "js_func:grHpttUtle",
       "error": null,
       "debug": []
     },
@@ -1395,7 +1395,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=samaykolkata&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tHltrUtgpe",
+      "method": "js_func:rttUetpHgl",
       "error": null,
       "debug": []
     },
@@ -1410,7 +1410,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=sananda&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:lUHrtttgpe",
+      "method": "js_func:ltUHtetpgr",
       "error": null,
       "debug": []
     },
@@ -1425,7 +1425,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=shikortv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:egtpttlHrU",
+      "method": "js_func:HpetgUtlrt",
       "error": null,
       "debug": []
     },
@@ -1440,7 +1440,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=somoy5&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tetrgltUpH",
+      "method": "js_func:ltertUpgHt",
       "error": null,
       "debug": []
     },
@@ -1455,7 +1455,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=sangsadtv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:tHgtUeptrl",
+      "method": "js_func:HtrtelpUgt",
       "error": null,
       "debug": []
     },
@@ -1470,7 +1470,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=starnews&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:pUHlgtttre",
+      "method": "js_func:tpgrtlteUH",
       "error": null,
       "debug": []
     },
@@ -1485,7 +1485,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=tehelkatv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:HUgtrpltet",
+      "method": "js_func:rtpUtgHetl",
       "error": null,
       "debug": []
     },
@@ -1500,7 +1500,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=thechanneltv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:UretlgtHtp",
+      "method": "js_func:UtegrtHtlp",
       "error": null,
       "debug": []
     },
@@ -1515,7 +1515,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=thikanatv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gtUtrptlHe",
+      "method": "js_func:tHtlUgtpre",
       "error": null,
       "debug": []
     },
@@ -1530,7 +1530,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=timetv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:teUrtHlgtp",
+      "method": "js_func:gpUrleHttt",
       "error": null,
       "debug": []
     },
@@ -1545,7 +1545,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=times24&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:ttUgerlptH",
+      "method": "js_func:HUrelgttpt",
       "error": null,
       "debug": []
     },
@@ -1560,7 +1560,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=toroni24tv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:rltUgeHtpt",
+      "method": "js_func:lgUtpHtret",
       "error": null,
       "debug": []
     },
@@ -1575,7 +1575,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=tvoneuk&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:rlUtttpgeH",
+      "method": "js_func:erptttUlgH",
       "error": null,
       "debug": []
     },
@@ -1590,7 +1590,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=untv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:eHUtttpglr",
+      "method": "js_func:ttptHgeUrl",
       "error": null,
       "debug": []
     },
@@ -1605,7 +1605,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=unmochontv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:HttgerUtlp",
+      "method": "js_func:tHprleUtgt",
       "error": null,
       "debug": []
     },
@@ -1620,7 +1620,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=v2beattv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:reUlptgHtt",
+      "method": "js_func:tHtrUleptg",
       "error": null,
       "debug": []
     },
@@ -1635,7 +1635,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=varendratv&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:gltHeUtprt",
+      "method": "js_func:letrHpgUtt",
       "error": null,
       "debug": []
     },
@@ -1650,7 +1650,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=voado&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:UtgHtlertp",
+      "method": "js_func:HettUgrlpt",
       "error": null,
       "debug": []
     },
@@ -1665,7 +1665,7 @@
       "stream_type": "m3u8",
       "embed_url": "https://tvz.jagobd.com/embed.php?u=voa&amp;vw=700&amp;vh=480&autoplay=true",
       "status": "ok",
-      "method": "js_func:rttlepgHtU",
+      "method": "js_func:UtreHgttpl",
       "error": null,
       "debug": []
     }
